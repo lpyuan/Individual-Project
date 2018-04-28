@@ -100,8 +100,8 @@ Dataset including:
 + Betting odds from up to 10 providers
 + Detailed match events (goal types, possession, corner, cross, fouls, cards etc...) for +10,000 matches
 
-+ GDP World Bank Data: https://www.kaggle.com/ibrahimmukherjee/gdp-world-bank-data/data
-(Calculate the GDP from primary indicators of the country)
+*GDP World Bank Data: https://www.kaggle.com/ibrahimmukherjee/gdp-world-bank-data/data
++(Calculate the GDP from primary indicators of the country)
 
 Datasets including:
 
