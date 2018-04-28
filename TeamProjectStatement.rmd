@@ -78,13 +78,13 @@ Three main datasets of FIFA World Cup from Kaggle (https://www.kaggle.com/abeckl
 The World Cups dataset show all information about all the World Cups in the history, while the World Cup Matches dataset shows all the results from the matches contested as part of the cups.
 
 WorldCupMatches.csv
-![](/Users/Mushroom/Desktop/Picture1.png)
+![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)
 
 WorldCupPlayers.csv
-![](/Users/lipinyuan/Desktop/Picture2.png)
+![](https://github.com/lpyuan/AddPics/blob/master/Picture2.png)
 
 WorldCups.csv
-![](/Users/lipinyuan/Desktop/Picture3.png)
+![](https://github.com/lpyuan/AddPics/blob/master/Picture3.png)
 
 ### Other Data Source:
 
@@ -115,5 +115,5 @@ Datasets including:
 
 
 ### General Outline
-![](/Users/lipinyuan/Desktop/Screen Shot 2018-04-28 at 9.19.28 AM.png)
+![](https://github.com/lpyuan/AddPics/blob/master/Picture4.png)
 
