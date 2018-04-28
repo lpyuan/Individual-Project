@@ -1,9 +1,3 @@
----
-title: "DataViz"
-author: "LIPIN"
-date: "4/28/2018"
-output: html_document
----
 
 ## Team Project -- FIFA World Cup
 ## Problem Statement
