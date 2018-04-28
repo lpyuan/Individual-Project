@@ -81,10 +81,10 @@ WorldCupMatches.csv
 ![](/Users/Mushroom/Desktop/Picture1.png)
 
 WorldCupPlayers.csv
-![](/Users/Mushroom/Desktop/Picture2.png)
+![](/Users/lipinyuan/Desktop/Picture2.png)
 
 WorldCups.csv
-![](/Users/Mushroom/Desktop/Picture3.png)
+![](/Users/lipinyuan/Desktop/Picture3.png)
 
 ### Other Data Source:
 
@@ -103,7 +103,7 @@ Dataset including:
 + GDP World Bank Data: https://www.kaggle.com/ibrahimmukherjee/gdp-world-bank-data/data
 (Calculate the GDP from primary indicators of the country)
 
-Datasets including::
+Datasets including:
 
 + GDP by country
 + Population per country
@@ -115,5 +115,5 @@ Datasets including::
 
 
 ### General Outline
-![](/Users/Mushroom/Desktop/Screen Shot 2018-04-28 at 9.19.28 AM.png)
+![](/Users/lipinyuan/Desktop/Screen Shot 2018-04-28 at 9.19.28 AM.png)
 
