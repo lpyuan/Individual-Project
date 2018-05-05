@@ -19,15 +19,15 @@
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/Dashboard%207.png)
 
-When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
++ When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
 
-After some research, I found that Giffords Law Center graded and ranked all 50 states on the relative strength or weakness of their gun laws every year. To rank and grade the gun law strength, they used six policies including Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. 
++ After some research, I found that Giffords Law Center graded and ranked all 50 states on the relative strength or weakness of their gun laws every year. To rank and grade the gun law strength, they used six policies including Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. 
 
-So I retrieved the latest data in 2017 to find the correlation between gun law strength ranking and gun death rate ranking. From 1 to 50,for gun law strength ranking, it means the gun laws from strongest to weakest, and for gun death rate, it means gun deaths from the most death to fewest deaths per capita. And different colors represent their differents grade of gun law. 
++ So I retrieved the latest data in 2017 to find the correlation between gun law strength ranking and gun death rate ranking. From 1 to 50,for gun law strength ranking, it means the gun laws from strongest to weakest, and for gun death rate, it means gun deaths from the most death to fewest deaths per capita. And different colors represent their differents grade of gun law. 
 
-From the above chart, we can see high gun law grades are associated with low gun death rates and low gun law grades with high gun death rates. There are 25 states earning an F in gray color. California is the only one state graded A which has a strongest gun laws in nation and a correspondingly low gun death rate. In 2017, it further strengthened its gun laws by prohibiting hate crime offenders from accessing guns and funding urban gun violence reduction programs.
++ From the above chart, we can see high gun law grades are associated with low gun death rates and low gun law grades with high gun death rates. There are 25 states earning an F in gray color. California is the only one state graded A which has a strongest gun laws in nation and a correspondingly low gun death rate. In 2017, it further strengthened its gun laws by prohibiting hate crime offenders from accessing guns and funding urban gun violence reduction programs.
 
-For further enhancements, I think maybe I would further try visualize data of recent four or five years to see the gun law progress of each state and its influences on gun deaths.
++ For further enhancements, I think maybe I would further try visualize data of recent four or five years to see the gun law progress of each state and its influences on gun deaths.
 
 ## 3. Number of mass shootings incidents declined but total casualty keeps increasing.
 
@@ -35,12 +35,12 @@ For further enhancements, I think maybe I would further try visualize data of re
 ![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/Dashboard%206.png)
 
-In this article, the author mentioned there had been more than 1,600 mass shootings since Sandy Hook in 2012 but didn’t provide any more details. Since he calculated data of several years, I think it will be better to visualize them in each year and find the trend. So from Gun Violence Archive, we can found mass shooting lists from January, 2014 to May, 2018. 
++ In this article, the author mentioned there had been more than 1,600 mass shootings since Sandy Hook in 2012 but didn’t provide any more details. Since he calculated data of several years, I think it will be better to visualize them in each year and find the trend. So from Gun Violence Archive, we can found mass shooting lists from January, 2014 to May, 2018. 
 
-Instead of just marking mass shooting incidents, I added a population layer in the map and then highlight the areas of different zip codes. Moreover,I use different circle size to represent the number of injured and killed people of each mass shooting incident.  And then we can see the mass shootings happened more intensively in areas of larger population along western and eastern coast.
++ Instead of just marking mass shooting incidents, I added a population layer in the map and then highlight the areas of different states. Moreover,I used different circle sizes to represent the number of injured and killed people of each mass shooting incident.  And then we can see the mass shootings happened more intensively in areas of larger population along western and eastern coast.
 
-Meanwhile, I created another bar chart to give a more statistical explanation of mass shooting. In total, we might make the same conclusion as that of the author’s that there have been more than 1,400 mass shootings happened from 2014 to present. 1,629 people were killed and 6,063were injured. 
++ Meanwhile, I created another bar chart to give a more statistical explanation of mass shooting. In total, we might make the same conclusion as that of the author’s that there have been more than 1,400 mass shootings happened from 2014 to present. 1,629 people were killed and 6,063were injured. 
 
-But if we analyzed them in each year, I found that the total number incidents decreased since 2016, while the number of casualty keeps increasing especially in 2017. 
++ But if we analyzed them in each year, I found that the total number incidents decreased since 2016, while the number of casualty keeps increasing especially in 2017. 
 
-For future enhancements, some study shows that mass shootings make up a tiny portion of America’s firearms death, so I am also planning to visualize the portion and compare it to other form of firearm deaths. Maybe this comparison can explain why mass shootings didn’t raise much action on gun control.
++ For future enhancements, some study shows that mass shootings make up a tiny portion of America’s firearms death, so I am also planning to visualize the portion and compare it to other form of firearm deaths. Maybe this comparison can explain why mass shootings didn’t raise much action on gun control.
