@@ -33,7 +33,7 @@ For further enhancements, I think maybe I would further try visualize data of re
 
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
-![](https://github.com/lpyuan/AddPics/blob/master/Dashboard%204.png)
+![](https://github.com/lpyuan/AddPics/blob/master/Dashboard%206.png)
 
 In this article, the author mentioned there had been more than 1,600 mass shootings since Sandy Hook in 2012 but didn’t provide any more details. Since he calculated data of several years, I think it will be better to visualize them in each year and find the trend. So from Gun Violence Archive, we can found mass shooting lists from January, 2014 to May, 2018. 
 
