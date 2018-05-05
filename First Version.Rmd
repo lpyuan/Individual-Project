@@ -1,6 +1,6 @@
 # First Redesign of Gun Violence
 
-## 1.States with more guns don’t necessarily tend to have more gun deaths.
+## 1. States with more guns don’t necessarily tend to have more gun deaths.
 
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
@@ -15,7 +15,8 @@
 
 + So for future enhancements, it is reasonable to visualize the crime rate including violent crime and non-violent crime or firearm related homicide and suicides of each state to find factors influencing states gun deaths when their gun ownership differs little.
 
-## 2. States with tighter gun control indeed have fewer gun-related deaths.
+## 2. Fewer people die from gun violence in States with stronger gun law control.
+
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/Dashboard%207.png)
 
