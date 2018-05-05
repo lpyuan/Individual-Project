@@ -1,0 +1,39 @@
+---
+title: "First Design of Gun Violence"
+author: "LIPIN"
+date: "5/5/2018"
+---
+
+# Finding 1:
+
+## States with more guns don't necessarily mean more deaths,but tighter gun control indeed has fewer gun-related deaths.
+
+(Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
+Road-map with future features/enhancements.)
+
+In the original article, the author cited the following chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. 
+
+![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)
+
+The gun ownership rate data is from a nationally representative sample of 4000 US adults, from 50 states and District of Columbia, aged >18 years to assess gun ownership and social gun culture performed in October 2013. Since we couldn't find the same data in recent years, so i used the civilian-owned guns per 100 perple in 2017 to represent this gun ownership and also the updated gun deaths data in 2017 to do the same chart. Here is the result:
+
+
+![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership.png)
+
+![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)
+
+# Finding 2:
+
+## Mass Shootings
+
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
