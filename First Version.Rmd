@@ -41,6 +41,7 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths20
 ![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
 + Workbook link: 
 https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootings2014-2018/MassShooting?publish=yes
+
 ![](https://github.com/lpyuan/AddPics/blob/master/MassShootings2.png)
 + Workbook link: 
 https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsStatistics2014-2018_05/NumMassShootings?publish=yes
