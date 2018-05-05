@@ -1,6 +1,6 @@
 # First Redesign of Gun Violence
 
-## 1. States with more guns don’t necessarily tend to have more gun deaths.
+## 1. States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
 
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
@@ -18,7 +18,7 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths
 
 + So for future enhancements, it is reasonable to visualize the crime rate including violent crime and non-violent crime or firearm related homicide and suicides of each state to find factors influencing states gun deaths when their gun ownership differs little.
 
-## 2. Fewer people die from gun violence in States with stronger gun law control.
+## 2. Fewer People Die From Gun Violence In States With Stronger Gun Laws.
 
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)
@@ -35,7 +35,7 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths20
 
 + For further enhancements, I think maybe I would further try visualize data of recent four or five years to see the gun law progress of each state and its influences on gun deaths.
 
-## 3. Number of mass shootings incidents declined but total casualty keeps increasing.
+## 3. Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing..
 
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
