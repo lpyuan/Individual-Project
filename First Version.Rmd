@@ -18,7 +18,7 @@
 ## 2. Fewer people die from gun violence in States with stronger gun law control.
 
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)
-![](https://github.com/lpyuan/AddPics/blob/master/Dashboard%207.png)
+![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)
 
 + When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
 
@@ -34,7 +34,7 @@
 
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
-![](https://github.com/lpyuan/AddPics/blob/master/Dashboard%206.png)
+![](https://github.com/lpyuan/AddPics/blob/master/MassShootings2.png)
 
 + In this article, the author mentioned there had been more than 1,600 mass shootings since Sandy Hook in 2012 but didn’t provide any more details. Since he calculated data of several years, I think it will be better to visualize them in each year and find the trend. So from Gun Violence Archive, we can found mass shooting lists from January, 2014 to May, 2018. 
 
