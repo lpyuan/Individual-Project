@@ -3,9 +3,6 @@
 
 ## States with more guns don't necessarily mean more deaths,but tighter gun control indeed has fewer gun-related deaths.
 
-(Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
-Road-map with future features/enhancements.)
-
 In the original article, the author cited the following chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. 
 
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)
