@@ -5,11 +5,11 @@
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)
 ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
 
-+ In the original article, the author cited the above left chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
++ In the original article, the author cited the first above chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
 
 + From CDC website, we can get data of gun deaths per 100,000 in 2017 for each state. But for gun ownership, there are different parameters to evaluate. The original gun ownership rate data is from a nationally representative sample of 4000 US adults to assess gun ownership and social gun culture performed in October 2013, and there is no same data in in recent years, so I decided to use the civilian-owned guns per 100 people in 2017 to represent this gun ownership.
 
-+ Firstly,I found the data of number of guns owned by each state in 2017 from ATF report and then got the data of states’ estimated population of the same year. In this way, I added one variable in Tableau called civilian-owned guns per 100 people calculated by (num of guns)*100/num of population. And then use two slightly changed variables, i redesigned another chart on the right. 
++ Firstly,I found the data of number of guns owned by each state in 2017 from ATF report and then got the data of states’ estimated population of the same year. In this way, I added one variable in Tableau called civilian-owned guns per 100 people calculated by 100(num of guns)/(num of population). And then by using two slightly changed variables, i redesigned the second aboved chart. 
 
 + Compared to the original chart, it is interesting to find that if we used civilian-owned data of each states, the results does change in another way. The relationship between gun deaths and gun ownership became not obviously linear related. About gun ownership, except for Wyoming state,civilian-owned guns in  other states are in the range of 0-5 per 100 people,but their gun deaths rate has big difference. And the linear trending line in the redesign chart also couldn’t explain the conclusion as the original chart.
 
