@@ -77,11 +77,6 @@ Comparing six host countries average economic growth changes in five year period
 
 It is identical to the previous insomuch as the difference between two periods for each index was taken on. For example,  if we want to analysis for Brazil, we extract data from 2012 to 2016, name it Y-2, Y-1, Y0, Y1, Y2. And same method for other countries, so they can be compared on the same dimension.
 
-## Summer Olympic Host Countries Analysis:
-
-Comparing World Cup host-countries with those of the same analysis performed on countries that have hosted the Summer Olympics, a mega-event of similar magnitude.
-
-
 ### Limitations of Data
 
 The data was analyzed on a country-by-country basis, which is an extremely high level. If we undertake a more granular analysis, perhaps some light could be shed as to the economic impact on a region-by-region or city-by-city basis.
