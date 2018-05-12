@@ -12,7 +12,7 @@ As David Whitson and John Horne put it, “a major feature of analysis of sports
 
 Therefore, We want to measure the impact of hosting the World Cup to the host countries, such as GDP affect, International travel and tourism growth, employment/unemployment condition etc.  
 
-## Data description
+## Data Description
 
 Twelve Datasets File:
 https://drive.google.com/drive/folders/1X8widex9lPks0oJ3ybMujDydkpUq5Uzt
