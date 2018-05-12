@@ -45,7 +45,8 @@ So firstly, we have to filter out six host countries data from 1995 to 2016. Her
 
 ![](https://github.com/lpyuan/AddPics/blob/master/Screen%20Shot%202018-05-12%20at%209.52.03%20AM.png)
 
-Secondly, we rearranged the twelve datasets into one dataset with 14 columns including country name, year and twelve indexes columns.Here is the screenshot of the rearranged data:
+Secondly, we rearranged the twelve datasets into one dataset with 14 columns that each country of six has its own 12 indexes data columns.Here is the screenshot of the rearranged data:
+
 ![](https://github.com/lpyuan/AddPics/blob/master/Screen%20Shot%202018-05-12%20at%2011.12.22%20AM.png)
 
 ## Data Preparation & Use
