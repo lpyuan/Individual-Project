@@ -1,0 +1,100 @@
+
+# Exploratory Data Analysis
+
+### Bochen Wang, Lipin Yuan, Yezhu Li
+
+
+## Intro
+
+The purpose of this project try to develop a general understanding of whether or not it is worthy for a country to host the FIFA World Cup. And we will focus on the host countries since 1998, they are Brazil(2014), South Africa(2010), Germany(2006), Japan/Korea(2002), France(1998).
+
+As David Whitson and John Horne put it, “a major feature of analysis of sports mega-events has been the gap between optimistic forecasts and the actual impacts of Games on the local economy, society, and culture.” (Whitson & Horne, 2006) 
+
+Therefore, We want to measure the impact of hosting the World Cup to the host countries, such as GDP affect, International travel and tourism growth, employment/unemployment condition etc.  
+
+## Data description
+
+Twelve Datasets File:
+https://drive.google.com/drive/folders/1X8widex9lPks0oJ3ybMujDydkpUq5Uzt
+
+The data was harvested from the most extensive and comprehensive source: World Databank(https://data.worldbank.org/country/). The analysis was to be performed on a high level, so there needed to be consistency in terms of how the information was collected. 
+
+Below are 12 statistical indexes used to analysis on a year-over-year, percentage-growth basis: 
+
+```{12 indexes}
+1.Government consumption
+2.Household consumption  
+3.Net investment in nonfinancial assets (% of GDP)  
+4.GDP per capita growth (annual %)  
+5.Employment to population ratio, 15+, total (%) (modeled ILO estimate)  
+6.Final consumption expenditure, etc. (annual % growth)  
+7.Industry, value added (annual % growth)  
+8.Labor force participation rate, total (% of total population ages 15-64)
+  (modeled ILO estimate)  
+9.Unemployment, total (% of total labor force) (modeled ILO estimate)  
+10.Urban population growth annual %
+11.GDP (Current US$) Growth  
+12.International tourism, number of arrivals Growth
+```
+
+For the raw data, each of the dataset has included all the coutries data from 1960-2016. So firstly, we have to filter out six host countries data from 1995 to 2016. 
+
+Here is the screenshot of the raw data:
+![]()
+
+Here is the screenshot of first cleaned data:
+![]()
+
+Secondly, we rearranged the twelve datasets into one dataset with 14 columns including country name, year and twelve indexes columns.
+
+Here is the screenshot of the rearranged data:
+![]()
+
+## Data Preparation & Use
+
+### Contents of Data
+
+Of these above twelve indexes, “Household Consumption Growth,” “GDP per Capita Growth,” and “Industry, Value Added Growth” were focused on as the primary overarching indicators of a country’s GDP growth, infrastructure development, and consumer sentiment. 
+
+The other nine indicators were then used to provide insight as to why the three primary gauges were the way they were. Using this analysis, one would ideally be able to not only draw overarching conclusions about the benefit or detriment of hosting the mega-event, but would also be able to compartmentalize sources of deviation from normalcy.
+
+Since we have tweleve datasets, each for one of the index
+
+## Road Map
+
+### Single-year Analysis: 
+
+After harvesting data for each host country across each statistical index, average host-year data was compared to average non-host year data on a country-by-country basis by taking the difference between the two values.
+
+Plot graph of 12 average statistical indexes for host-year compare with non-host year data. 
+For example, if we want to analysis for Brazil, we compare average data of 2014 in the 2000-2016 distribution to see if it displays any significant deviations taking place in the host-year alone.
+
+### Five-year Period Analysis: 
+
+Comparing six host countries average economic growth changes in five year period (two years before hosting the mega-event and another two years after hosting the mega-event), this analysis willdetermine whether benefits or detriments realized in the host year were lasting or anomalous.
+
+It is identical to the previous insomuch as the difference between two periods for each index was taken on. For example,  if we want to analysis for Brazil, we extract data from 2012 to 2016, name it Y-2, Y-1, Y0, Y1, Y2. And same method for other countries, so they can be compared on the same dimension.
+
+## Summer Olympic Host Countries Analysis:
+
+Comparing World Cup host-countries with those of the same analysis performed on countries that have hosted the Summer Olympics, a mega-event of similar magnitude.
+
+
+### Limitations of Data
+
+The data was analyzed on a country-by-country basis, which is an extremely high level. If we undertake a more granular analysis, perhaps some light could be shed as to the economic impact on a region-by-region or city-by-city basis.
+
+## Reference
+
+Will Russian economy score a goal in FIFA 2018?
+https://e-markets.nordea.com/#!/article/43345/will-russian-economy-score-a-goal-in-fifa-2018
+
+International Tourism by Host Country(1995-2016) (uploaded in drive folder)
+https://datamarket.com/data/set/15zv/international-tourism-number-of-arrivals#!ds=15zv!i0h&display=line
+
+The World Bank - Data of GDP, Population, Environment etc. by Country
+https://data.worldbank.org/country/
+
+Is World Cup Worth the Money for Host Country? 
+https://repository.tcu.edu/bitstream/handle/116099117/19852/Brazeal__James-Honors_Project.pdf?sequence=1
+
