@@ -40,10 +40,12 @@ Below are 12 statistical indexes used to analysis on a year-over-year, percentag
 For the raw data, each of the dataset has included all the coutries data from 1960-2016. So firstly, we have to filter out six host countries data from 1995 to 2016. 
 
 Here is the screenshot of the raw data:
-![]()
+
+![](https://github.com/lpyuan/AddPics/blob/master/Screen%20Shot%202018-05-12%20at%209.48.02%20AM.png)
 
 Here is the screenshot of first cleaned data:
-![]()
+
+![](https://github.com/lpyuan/AddPics/blob/master/Screen%20Shot%202018-05-12%20at%209.52.03%20AM.png)
 
 Secondly, we rearranged the twelve datasets into one dataset with 14 columns including country name, year and twelve indexes columns.
 
