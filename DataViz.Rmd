@@ -60,9 +60,7 @@ Of these above twelve indexes, “Household Consumption Growth,” “GDP per Ca
 
 The other nine indicators were then used to provide insight as to why the three primary gauges were the way they were. Using this analysis, one would ideally be able to not only draw overarching conclusions about the benefit or detriment of hosting the mega-event, but would also be able to compartmentalize sources of deviation from normalcy.
 
-Since we have tweleve datasets, each for one of the index
-
-## Road Map
+## Data Manipulation and Analysis
 
 ### Single-year Analysis: 
 
