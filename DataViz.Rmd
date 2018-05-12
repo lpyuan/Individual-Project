@@ -6,7 +6,7 @@
 
 ## Intro
 
-The purpose of this project try to develop a general understanding of whether or not it is worthy for a country to host the FIFA World Cup. And we will focus on the host countries since 1998, they are Brazil(2014), South Africa(2010), Germany(2006), Japan/Korea(2002), France(1998).
+The purpose of this project is trying to develop a general understanding of whether or not it is worthy for a country to host the FIFA World Cup from the economy perspective. And we will focus on six host countries since 1998, they are Brazil(2014), South Africa(2010), Germany(2006), Japan/Korea(2002), France(1998).
 
 As David Whitson and John Horne put it, “a major feature of analysis of sports mega-events has been the gap between optimistic forecasts and the actual impacts of Games on the local economy, society, and culture.” (Whitson & Horne, 2006) 
 
