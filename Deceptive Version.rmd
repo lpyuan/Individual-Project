@@ -1,18 +1,24 @@
 
 ## Gun Violence in America (Deceptive Version) 
 
-This statement has the following four parts:
+This file contains the following four parts:
 
 ```{ Catalog }
 
-1. Problem Statement 
+1. Intro
 2. Data Wrangling 
 3. Interesting Findings 
 4. Road Map 
 
 ```
 
+### 1. Intro
 
+Data visualizations do a fantastic job of explaining data in a clear and engaging way. However, one [study](https://medium.com/@Infogram/study-asks-how-deceptive-are-deceptive-visualizations-8ff52fd81239) by New York University shows that if we design the graphical information with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message.
+
+And there are some common distortion techniques can lead to major misinterpretation, for example using truncated axis, aspect ratio or area as auantity for message exaggeration, and inverted axis to reverse message. 
+
+So if we try visualize some of the charts in the [america gun violence](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) aricle by Vox in a deceptive way, it may lead to major misinterpretation from the reader’s side and make opposite conclusions from the original one.
 
 
 ### States with more guns have more gun deaths?
