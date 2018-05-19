@@ -1,12 +1,16 @@
 
-# Gun Violence in America (Deceptive Version) 
+## Gun Violence in America (Deceptive Version) 
 
 This statement has the following four parts:
 
-> Problem Statement 
-> Data Wrangling 
-> Interesting Findings 
-> Road Map 
+```{ Catalog }
+
+1. Problem Statement 
+2. Data Wrangling 
+3. Interesting Findings 
+4. Road Map 
+
+```
 
 
 
