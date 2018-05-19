@@ -36,6 +36,7 @@ Original Chart | Deceptive Chart
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)|![](https://github.com/lpyuan/AddPics/blob/master/Gun%20Ownership.png)
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes)
+
 Data Source: [Gun ownership and social gun culture](http://europepmc.org/articles/pmc4809774)
 
 From the original chart on the left, the article illustrates that states with more guns tend to have far more gun deaths, including homicides and suicides, though there are several outliers. And the increasing trending line also seems t to strenghthen this opinion. 
@@ -49,6 +50,7 @@ Original Chart | Deceptive Chart
 ![](https://github.com/lpyuan/AddPics/blob/master/rate_of_firearms.png)|![](https://github.com/lpyuan/AddPics/blob/master/Rate_of_deaths.png)
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes)
+
 Data Source:[CDC Multiple Cause of Death Data](https://wonder.cdc.gov/mcd.html)
 
 The article argued that gun homicides have declined over the past couple decades. And from the original chart on the left, we can see from 1981 to 2010, the rate of firearm homicide deaths indeed has two sudden decreases. It also shows the decreasing trend, especially the maximum value around 1993 was 7.0, but in 2010 this value became the minimum 3.6. 
@@ -62,6 +64,7 @@ Original Chart | Deceptive Chart
 ![](https://github.com/lpyuan/AddPics/blob/master/firearm_suicide_homicide.png)|![](https://github.com/lpyuan/AddPics/blob/master/Firearm_suicide.png)
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
+
 Data Source:[CDC Multiple Cause of Death Data](https://wonder.cdc.gov/mcd.html)
 
 The author held the opinion that the majority of gun-related deaths in the US are suicides. And from the original graph we can obviously see that the darker color line representing suicide is on the upper part for the whole period and ended with a big increase than the homicide line.
