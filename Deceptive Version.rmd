@@ -11,7 +11,6 @@ This file contains the following four parts:
 4. Road Map 
 
 ```
-
 ### 1. Intro
 
 Data visualizations do a fantastic job of explaining data in a clear and engaging way. However, one [study](https://medium.com/@Infogram/study-asks-how-deceptive-are-deceptive-visualizations-8ff52fd81239) by New York University shows that if we design the graphical information with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message.
@@ -28,7 +27,9 @@ Here is the data clean and aggregation part in jupyter file:
 
 ### 3. Deceptive Findings 
 
-### 3.1 States with more guns have more gun deaths?
+From the seventeen charts listed in the article, I chose three of them and used different data distortion techniques including inversted Y-axis, truncted X-axis and improper scaling presenting the data in an opposite way.
+
+#### 3.1 States with more guns have more gun deaths?
 
 Original Chart | Deceptive Chart
 -------------  | -------------
@@ -36,7 +37,13 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes)
 
-### 3.2 Gun homicides (like all homicides) keep stable for years but starts increasing in recent years.
+From the original chart on the left, it shows that states with more guns tend to have far more gun deaths, including homicides and suicides.
+
+Using the same data from a study in Injury Prevention and the Centers for Disease Control and Prevention, if we reverse the axis orientation, it could be visually deceptive.
+
+#### 3.2 Gun homicides have declined over the past couple decades?
+
+Gun homicides (like all homicides) keep stable for years but starts increasing in recent years.
 
 Original Chart | Deceptive Chart
 -------------  | -------------
@@ -44,7 +51,7 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes)
 
-### 3.3 Most guns deaths are not suicides?
+#### 3.3 Most guns deaths are not suicides?
 
 Original Chart | Deceptive Chart
 -------------  | -------------
@@ -52,3 +59,5 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
 
+
+### 4. Road Map
