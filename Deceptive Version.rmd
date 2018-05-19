@@ -7,7 +7,7 @@ This file contains the following four parts:
 
 1. Intro
 2. Data Wrangling 
-3. Interesting Findings 
+3. Deceptive Findings 
 4. Road Map 
 
 ```
@@ -20,6 +20,11 @@ And there are some common distortion techniques can lead to major misinterpretat
 
 So if we try visualize some of the charts in the [america gun violence](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) aricle by Vox in a deceptive way, it may lead to major misinterpretation from the reader’s side and make opposite conclusions from the original one.
 
+### 2. Data Wrangling 
+
+### [Jupyter Notebook Link](https://github.com/lpyuan/Individual-Project/blob/master/Data%20Viz.ipynb)
+
+### 3. Deceptive Findings 
 
 ### States with more guns have more gun deaths?
 
