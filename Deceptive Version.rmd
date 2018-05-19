@@ -1,0 +1,50 @@
+Deceptive Version of Gun Violence
+Lipin Yuan
+
+
+
+
+### States with more guns have more gun deaths?
+
+workbook link:
+https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes
+
+
+### Gun homicides (like all homicides) keep stable for years but starts increasing in recent years.
+
+original charts:
+![](https://github.com/lpyuan/AddPics/blob/master/rate_of_firearms.png)
+deceptive charts:
+![](https://github.com/lpyuan/AddPics/blob/master/Rate_of_deaths.png)
+
+workbook link:
+https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes
+
+
+### Most guns deaths are not suicides?
+
+original charts
+![](https://github.com/lpyuan/AddPics/blob/master/firearm_suicide_homicide.png)
+
+deceptive charts:
+![](https://github.com/lpyuan/AddPics/blob/master/Firearm_suicide.png)
+workbook link:
+https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes
+
+
+Another way to deceptive this chart:
+
+![](https://github.com/lpyuan/AddPics/blob/master/FirearmSuicide.png)
+
+workbook link:
+https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide/Sheet2?publish=yes
+
+
+```{r}
+
+setwd("~/Downloads")
+library(foreign)
+
+write.table(read.spss("ICVS_part6.sav"), file="from_ICVS_part6.csv", quote = FALSE, sep = ",")
+write.table(read.dta("ICVS_part6.dta"), file="from_ICVS_part6.csv", quote = FALSE, sep = ",")
+```
