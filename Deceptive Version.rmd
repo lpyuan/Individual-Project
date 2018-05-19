@@ -9,6 +9,7 @@ This file contains the following four parts:
 2. Data Wrangling 
 3. Deceptive Findings 
 4. Road Map 
+5. References
 
 ```
 ### 1. Intro
@@ -75,7 +76,7 @@ While if we use a distorted area chart instead of lines together with a truncted
 
 For future enhancement, I think it will better sharpen my kills to try different deception techniques like misusing the dual-axis,omitting data and ignoring conventions. In this way, I can have a full understanding of what deceptive visualizations are and how much of an impact they can have. Then it will remind me of avoding making these mistakes in the future.
 
-### References
+### 5. References
 
 Visualization:Misleading axes on graphs
 http://callingbullshit.org/tools/tools_misleading_axes.html
