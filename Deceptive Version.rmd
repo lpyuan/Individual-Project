@@ -28,7 +28,7 @@ Here is the data clean and aggregation part in jupyter file:
 
 ### 3. Deceptive Findings 
 
-### States with more guns have more gun deaths?
+### 3.1 States with more guns have more gun deaths?
 
 Original Chart | Deceptive Chart
 -------------  | -------------
@@ -36,7 +36,7 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes)
 
-### Gun homicides (like all homicides) keep stable for years but starts increasing in recent years.
+### 3.2 Gun homicides (like all homicides) keep stable for years but starts increasing in recent years.
 
 Original Chart | Deceptive Chart
 -------------  | -------------
@@ -44,7 +44,7 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes)
 
-### Most guns deaths are not suicides?
+### 3.3 Most guns deaths are not suicides?
 
 Original Chart | Deceptive Chart
 -------------  | -------------
