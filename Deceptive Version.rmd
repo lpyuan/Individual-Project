@@ -49,13 +49,9 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes)
 
-The article argued that gun homicides have declined over the past couple decades. And from the original chart on the left, we can see from 1981 to 2010, the rate of firearm homicide deaths indeed had two sudden decreases. It also shows the decreasing trend, especially the maximum value around 1993 is 7.0, but in 2010 this value became the minimum 3.6. 
+The article argued that gun homicides have declined over the past couple decades. And from the original chart on the left, we can see from 1981 to 2010, the rate of firearm homicide deaths indeed has two sudden decreases. It also shows the decreasing trend, especially the maximum value around 1993 was 7.0, but in 2010 this value became the minimum 3.6. 
 
-But if we only choose the data from 1999 to 2010 and also add recent years data,the result can be completely different. Just as the deceptive chart shows, it seems that gun homicides (like all homicides) keep stable for years and even starts increasing in recent years.
-
-So ‘In the truncated axis visual distortion, one or more of the axes of a chart are altered by changing the minimum and maximum values presented on the scale'.
-
-
+But if we only choose the data from 1999 to 2010 and also add some recent years data,the result can be completely different. Just as the deceptive chart shows, it seems that gun homicides (like all homicides) keep stable for years and even starts increasing from 2014 to 2016. Because we manipulated the starting data point and only present the stable period, then the conclusion became totally opposite by the truncated axis visual distortion.
 
 #### 3.3 Most gun deaths are not suicides?
 
@@ -65,11 +61,10 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
 
-The original graph shows majority of gun-related deaths in the US are suicides. We can see that line of suicides is much higher than homicides and still on a rising trend.
+The author held the opinion that the majority of gun-related deaths in the US are suicides. And from the original graph we can obviously see that the darker color line representing suicide is on the upper part for the whole period and ended with a big increase than the homicide line.
 
-But if we change the graph to a different pattern, it could be visually tricked. The deceptive graph does not oppose the conclusion of *"greater access to guns dramatically increases the risk of suicide"*, but with the distorted area size and truncated y-axis, the visual effects are different. The deceptive graph intentionally leave an impression of homecide number is higher than suicide.
-
-Although America’s political debate about guns tends to focus on grisly mass shootings and murders, a majority of gun-related deaths in the US are suicides.
-
+While if we use a distorted area chart instead of lines together with a truncted Y-axis, then it could be visually deceptive and might mislead readers to make the conclusion that the firearm homicides are more than suicides. Because the deceptive chart started the death number from 15k, which intentionally dimished the suicide area size with an improper scaling. And when we just compared the area size of these two, the visual effect would lead to a mistake.
 
 ### 4. Road Map
+
+
