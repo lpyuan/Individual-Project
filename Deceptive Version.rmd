@@ -37,9 +37,9 @@ Original Chart | Deceptive Chart
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes)
 
-From the original chart on the left, it shows that states with more guns tend to have far more gun deaths, including homicides and suicides.
+From the original chart on the left, the article illustrates that states with more guns tend to have far more gun deaths, including homicides and suicides, though there are several outliers. And the increasing trending line also seems t to strenghthen this opinion. 
 
-Using the same data from a study in Injury Prevention and the Centers for Disease Control and Prevention, if we reverse the axis orientation, it could be visually deceptive.
+But when we invert the rate of death per 10,000, the chart would be presented in an opposite way,which is exactly on the right. Using the same data in 2013 from a study in Injury Prevention and the Centers for Disease Control and Prevention(CDC), the trending line become downward but actually represents increasing. If readers still explain this chart from a normal understanding of axis meaning, then it might mislead the conclusion to be "more gunownership, less death rate".
 
 #### 3.2 Gun homicides have declined over the past couple decades?
 
