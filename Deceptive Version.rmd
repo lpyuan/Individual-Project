@@ -18,7 +18,7 @@ Data visualizations do a fantastic job of explaining data in a clear and engagin
 
 And there are some common distortion techniques can lead to major misinterpretation, for example using truncated axis, aspect ratio or area as auantity for message exaggeration, and inverted axis to reverse message. 
 
-So if we try visualize some of the charts in the [america gun violence](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) aricle by Vox in a deceptive way, it may lead to major misinterpretation from the reader’s side and make opposite conclusions from the original one.
+So if we try visualize some of the charts in the [america gun violence](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) article by Vox in a deceptive way, it may lead to major misinterpretation from the reader’s side and make opposite conclusions from the original one.
 
 ### 2. Data Wrangling 
 
