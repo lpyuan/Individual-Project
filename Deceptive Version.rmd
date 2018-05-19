@@ -22,7 +22,9 @@ So if we try visualize some of the charts in the [america gun violence](https://
 
 ### 2. Data Wrangling 
 
-### [Jupyter Notebook Link](https://github.com/lpyuan/Individual-Project/blob/master/Data%20Viz.ipynb)
+Here is the data clean and aggregation part in jupyter file:
+
+#### [Jupyter Notebook Link](https://github.com/lpyuan/Individual-Project/blob/master/Data%20Viz.ipynb)
 
 ### 3. Deceptive Findings 
 
