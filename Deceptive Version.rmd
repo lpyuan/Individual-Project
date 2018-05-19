@@ -1,5 +1,12 @@
-# Deceptive Version of Gun Violence
 
+# Gun Violence in America (Deceptive Version) 
+
+This statement has the following four parts:
+
+> Problem Statement 
+> Data Wrangling 
+> Interesting Findings 
+> Road Map 
 
 
 
