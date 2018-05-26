@@ -65,14 +65,14 @@ dr equals the difference in ratings plus 100 points for a team playing at home.
 
 **Figure 1.1 World Cup Rank vs. World Elo Ratings** 
 
-![](https://github.com/bochenw/first-version-graph/blob/master/1.png)
+![](https://github.com/lpyuan/Individual-Project/blob/master/rankDiff.png)
 [Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/WorldCuprankVsWorldrankforHostCountriesfrom1930to2014/Dashboard1)
 
 We calculated the difference between world cup ranking and world ranking and plot our result into the following figure. The ranking differences between world ranking and world cup ranking for the host countries since 1930 has an average of 8.35. Besides of the number, we observed that the result is very unbalanced, some group of countries only changed in a small range, and other countries changed in a relatively broad range.
 
 **Figure 1.2 Ranking Differences**
 
-![](https://github.com/bochenw/first-version-graph/blob/master/2.png)
+![](https://github.com/lpyuan/Individual-Project/blob/master/WorldCupvs.ELO.png)
 
 [Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/rankingdifferencesbetweenworldcuprankandelosoccerrating/Dashboard2)
 
