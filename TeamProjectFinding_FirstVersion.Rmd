@@ -6,8 +6,11 @@
 1. Introduction
 2. Data Wrangling
 3. Interesting Findings
+   + Development Process
+   + Literature
+   + Exploratory Chart and Reasoning
    + Limitations and Outlook
-4. Conclusion
+4. Additional References
 ```
 
 ## Introduction
@@ -28,7 +31,7 @@ So we used data of all host countries from three perspectives sports performance
 
 ## Interesting Findings
 
-### Finding 1: Home Advantages for Hosting Country on World Cup Ranking
+### Finding 1: How Big Are Home-court Advantages for Hosting Country on World Cup Ranking?
 
 Since the beginning of the World Cup, host countries have produced a better performance compared to their Soccer Rating in the world every year apart from 1990. 
 
@@ -137,7 +140,7 @@ On the other hand, the data suggests that host countries might recover nicely in
 
 #### <2> GDP Annual Changes in Current US$
 
-**Figure 2.1: GDP Changes among Host Countries (1960-2016)**
+**Figure 2.1: GDP Changes Among Host Countries (1960-2016)**
 
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/GDP%20Change%20among%20large%20Economies.png)
 
@@ -147,7 +150,7 @@ When we compared the GDP change in current $US, we can see the big differences a
 
 Germany (2006), France (1998) and the United States (1994), with developed infrastructure and modern stadiums, spent less than a billion each. When they co-hosted in 2002 and built new facilities, South Korea spent [$2.5 billion](http://time.com/2930699/world-cup-brazil-spending/)and Japan [$5 billion](http://time.com/2930699/world-cup-brazil-spending/).But it's not obvious to draw conclusion for other countries. 
 
-**Figure 2.2: GDP Changes among Host Countries (Medium Economies, 1960-2016)** 
+**Figure 2.2: GDP Changes Among Host Countries (Medium Economies, 1960-2016)** 
 
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/GDP%20Change%20among%20medium%20Economies.png)
 
@@ -178,7 +181,7 @@ Ultimately, the World Cup added 0.5% or R93 billion to South Africa's GDP in 201
 + The impact of the games might also be sensitive to the timing of the games. A country that is operating below capacity might receive a much bigger boost from the games than an economy that is already growing.
 + GDP data has huge gap between different countries, find more supportive data to explain their changes in different ways.
 
-### Finding 3 - Will World Cup has a significant impact of tourism on host countries?
+### Finding 3 - Will World Cup Have A Significant Impact of Tourism on Host Countries?
 
 While many factors influence tourism growth, one of the more perceptible contributions e at least, in the public eye, comes from global events, or mega-events.
 
@@ -229,7 +232,7 @@ There is also the on-going perception that Brazil is a dangerous  country. Howev
 + Locating the year that FIFA announced the Host Country, compare the differences of post announcement years to post hosting years' impact on tourism. 
 
 
-#### Other References:
+#### Additional References:
 
 + Does hosting the World Cup leave a legacy?
 5addedminutes.com; July 9, 2015
