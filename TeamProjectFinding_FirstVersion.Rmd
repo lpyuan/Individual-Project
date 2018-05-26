@@ -28,7 +28,7 @@ So we used data of all host countries from three perspectives sports performance
 
 ## Interesting Findings
 
-### Finding 1: - Home advantages on Hosting Country World Cup Ranking
+### Finding 1: Home Advantages for Hosting Country on World Cup Ranking
 
 Since the beginning of the World Cup, host countries have produced a better performance when hosting the World Cup compared to their National Soccer Strength Rating in every year apart from 1990. 
 
