@@ -30,11 +30,11 @@ So we used data of all host countries from three perspectives sports performance
 
 ### Finding 1: Home Advantages for Hosting Country on World Cup Ranking
 
-Since the beginning of the World Cup, host countries have produced a better performance when hosting the World Cup compared to their National Soccer Strength Rating in every year apart from 1990. 
+Since the beginning of the World Cup, host countries have produced a better performance compared to their Soccer Rating in the world every year apart from 1990. 
 
 Our analysis shows that home country advantage is equivalent to progressing an additional two rounds on average, and this pattern is evident in Figure. This home region effect may reflect a mix of stronger home crowd support and common climatic conditions. A European country has never won a World Cup held in the Americas, while only once has a South American country won the World Cup in Europe (Brazil in 1958).
 
-We used world soccer Elo rating, it’s based on the Elo rating system, developed by Dr. Arpad Elo. This system is used by FIDE, the international chess federation, to rate chess players. by adding a weighting for the kind of match, an adjustment for the home team advantage, and an adjustment for goal difference in the match result.
+We used world [World Soccer Elo rating](https://www.eloratings.net), it’s based on the Elo rating system, developed by Dr. Arpad Elo. This system is used by FIDE, the international chess federation, to rate chess players. by adding a weighting for the kind of match, an adjustment for the home team advantage, and an adjustment for goal difference in the match result.
 
 The ratings take into account all international "A" matches for which results could be found. International football data is primarily obtained from rsssf.com, theroonba.com, and soccer-db.info.
 
@@ -60,8 +60,7 @@ We is the expected result (win expectancy), either from the chart or the followi
 
 #### We = 1 / (10(-dr/400) + 1)
 
-dr equals the difference in ratings plus 100 points for a team playing at home.
-(https://www.eloratings.net/about)
+[dr](https://www.eloratings.net/about) equals the difference in ratings plus 100 points for a team playing at home.
 
 **Figure 1.1 World Cup Rank vs. World Elo Ratings** 
 
@@ -95,13 +94,6 @@ The objective of this formula is simple to understand: one country has a world r
 
 ![](https://github.com/lpyuan/Individual-Project/blob/master/ranking10.png)
 [Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/ranking10difficulty/Dashboard4)
-
-### Conclusion:
-Since the beginning of the World Cup, host countries have produced a better performance when hosting the World Cup compared to their National Soccer Strength Rating in every year apart from 1990. 
-
-Our analysis shows that home country advantage is equivalent to progressing an additional 2 rounds on average, and this pattern is evident in Figure. This home region effect may reflect a mix of stronger home crowd support and common climatic conditions. A European country has never won a World Cup held in the Americas, while only once has a South American country won the World Cup in Europe (Brazil in 1958).
-
-### Sub-finding: 
 
 Korea had outperformed the most during 2002 world cup.
 
