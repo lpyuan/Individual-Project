@@ -9,8 +9,9 @@ output: html_document
 
 ## 1. States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
 
-![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)
-![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
+Original Chart | Deceptive Chart
+-------------  | -------------
+![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)|![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
 
 + Workbook link: 
 https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes
@@ -27,8 +28,10 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths
 
 ## 2. Fewer People Die From Gun Violence In States With Stronger Gun Laws.
 
-![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)
-![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)
+Original Chart | Deceptive Chart
+-------------  | -------------
+![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)|![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)
+
 + Workbook link: 
 https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes
 
@@ -44,8 +47,10 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths20
 
 ## 3. Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
 
-![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)
-![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
+Original Chart | Deceptive Chart
+-------------  | -------------
+![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)|![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
+
 + Workbook link: 
 https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootings2014-2018/MassShooting?publish=yes
 
