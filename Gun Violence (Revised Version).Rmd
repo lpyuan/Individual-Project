@@ -29,7 +29,8 @@ Original Chart | First Version
 
 Original Chart | First Version
 -------------  | -------------
-![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)|![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)
+![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | 
+![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  |
 
 + Workbook link: 
 https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes
