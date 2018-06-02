@@ -9,7 +9,7 @@ output: html_document
 
 ## 1. States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
 
-Original Chart | Deceptive Chart
+Original Chart | First Version
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)|![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
 
@@ -28,7 +28,7 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths
 
 ## 2. Fewer People Die From Gun Violence In States With Stronger Gun Laws.
 
-Original Chart | Deceptive Chart
+Original Chart | First Version
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png)|![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)
 
@@ -47,7 +47,7 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths20
 
 ## 3. Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
 
-Original Chart | Deceptive Chart
+Original Chart | First Version
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)|![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
 
