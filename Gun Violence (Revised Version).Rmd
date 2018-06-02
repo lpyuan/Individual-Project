@@ -63,9 +63,9 @@ First Version-2 |
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsStatistics2014-2018_05/NumMassShootings?publish=yes)
 
-Revised Version-1 | 
--------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/StateShooting.png)|
+Revised Version-1 | Revised Version-2
+-------------  |  -------------
+![](https://github.com/lpyuan/AddPics/blob/master/StateShooting.png)| ![](https://github.com/lpyuan/AddPics/blob/master/Revise_Num_Mass_Shootings.png)
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsByState2013-2017/MassShooting?publish=yes)
 
