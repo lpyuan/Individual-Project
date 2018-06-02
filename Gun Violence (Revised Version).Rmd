@@ -32,7 +32,10 @@ The data uesd in this projects are generated from different public data sources.
 
 Gun Law Strength Data: [The Giffords Law Center](http://lawcenter.giffords.org/scorecard/)
 
-Multiple Cause of Death Data: [CDC](https://wonder.cdc.gov/mcd.html). The data represented firearm caused death in each state each year, from 1999 to 2016.
+Multiple Cause of Death Data: [CDC](https://wonder.cdc.gov/mcd.html). 
+The data represented firearm caused death in each state each year, from 1999 to 2016.
+
+Gun Ownership and Social Gun Culture Data: http://europepmc.org/articles/pmc4809774
 
 Here is the data clean and aggregation part in jupyter file:
 
