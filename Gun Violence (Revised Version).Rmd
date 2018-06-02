@@ -51,9 +51,10 @@ Original Chart |
 ------------- |
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)|
 
-First Version-1 |
--------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)|
+First Version-1 | First Version-2 
+-------------  | ------------- 
+![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)| 
+![](https://github.com/lpyuan/AddPics/blob/master/MassShootings2.png) |
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootings2014-2018/MassShooting?publish=yes)
 
