@@ -1,11 +1,25 @@
----
-title: "Revised Version"
-author: "LIPIN"
-date: "6/1/2018"
-output: html_document
----
+# America’s Unique Gun Violence Problem
 
-# First Redesign of Gun Violence
+# Redesign and Deceptive Data Products
+
+This projects will comprise of the following several parts:
+
+```{Structure}
+
+1. Project Introduction
+2. Data Source and Wranging
+3. Redesin Data Product:
+   3.1 Finding One
+   3.2 Finding Two
+   3.3 Finding Three
+4. Deceptive Data Product
+   4.1 Finding One
+   4.2 Finding TWO
+   4.3 Finding Three
+5. Summary and Outlook
+
+```
+
 
 ## 1. States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
 
