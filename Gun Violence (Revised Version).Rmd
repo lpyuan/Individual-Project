@@ -9,9 +9,13 @@ output: html_document
 
 ## 1. States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
 
-Original Chart | First Version
--------------  | -------------
-![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)|![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
+Original Chart | 
+-------------  |
+![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | 
+
+First Version |
+------------- | 
+|![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png) |
 
 + Workbook link: 
 https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes
