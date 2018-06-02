@@ -96,7 +96,7 @@ Original Chart|
 First Version-1| First Version-2 
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)| ![](https://github.com/lpyuan/AddPics/blob/master/MassShootings2.png) |
-First Version-1: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootings2014-2018/MassShooting?publish=yes) ; First Version-2: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsStatistics2014-2018_05/NumMassShootings?publish=yes)
+First Version-1: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootings2014-2018/MassShooting?publish=yes) | First Version-2: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsStatistics2014-2018_05/NumMassShootings?publish=yes) |
 
 Revised Version| 
 -------------  | 
