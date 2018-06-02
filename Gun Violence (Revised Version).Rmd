@@ -5,10 +5,9 @@
 This projects will comprise of the following several parts:
 
 ```{Structure}
-
 1. Project Introduction
 2. Data Source and Wranging
-3. Redesin Data Product:
+3. Redesin Data Product
    3.1 Finding One
    3.2 Finding Two
    3.3 Finding Three
@@ -20,54 +19,31 @@ This projects will comprise of the following several parts:
 
 ```
 
+## 1. Project Introduction
 
-## 1. States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
+The topic for this project is Gun Violence in the United States. The data products displayed below are inspired by an article of Vox -- America's unique gun violence problem, explained in 17 maps and charts.
 
-Original Chart | First Version 
--------------  | ------------- 
-![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
+This project contains two parts: An redesign of existing data product and a deceptive data product. The objective is to learn from others, sharpen the critical perspective on data visualizations, reason about design decisions, and attempt to improve data visualizations.
 
-First Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
+Data visualizations do a fantastic job of explaining data in a clear and engaging way. However, one [study](https://medium.com/@Infogram/study-asks-how-deceptive-are-deceptive-visualizations-8ff52fd81239) by New York University shows that if we design the graphical information with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message.
 
-Revised Version |
--------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png) |
+And there are some common distortion techniques can lead to major misinterpretation, for example using truncated axis, aspect ratio or area as auantity for message exaggeration, and inverted axis to reverse message. 
 
-Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathByState2013/Sheet7?publish=yes) 
+So if we try visualize some of the charts in the [america gun violence](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) article by Vox in a deceptive way, it may lead to major misinterpretation from the reader’s side and make opposite conclusions from the original one.
 
-+ In the original article, the author cited the first above chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
+## 2. Data Source and Wranging
 
-+ From CDC website, we can get data of gun deaths per 100,000 in 2017 for each state. But for gun ownership, there are different parameters to evaluate. The original gun ownership rate data is from a nationally representative sample of 4000 US adults to assess gun ownership and social gun culture performed in October 2013, and there is no same data in in recent years, so I decided to use the civilian-owned guns per 100 people in 2017 to represent this gun ownership.
+The data uesd in this projects are generated from different public data sources.
 
-+ Firstly,I found the data of number of guns owned by each state in 2017 from ATF report and then got the data of states’ estimated population of the same year. In this way, I added one variable in Tableau called civilian-owned guns per 100 people calculated by 100(num of guns)/(num of population). And then by using two slightly changed variables, i redesigned the second aboved chart. 
+Data of deaths caused by firearm by states is downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html. The data represented firearm caused death in each state each year, from 1999 to 2016.
 
-+ Compared to the original chart, it is interesting to find that if we used civilian-owned data of each states, the results does change in another way. The relationship between gun deaths and gun ownership became not obviously linear related. About gun ownership, except for Wyoming state,civilian-owned guns in  other states are in the range of 0-5 per 100 people,but their gun deaths rate has big difference. And the linear trending line in the redesign chart also couldn’t explain the conclusion as the original chart.
+Here is the data clean and aggregation part in jupyter file:
 
-+ So for future enhancements, it is reasonable to visualize the crime rate including violent crime and non-violent crime or firearm related homicide and suicides of each state to find factors influencing states gun deaths when their gun ownership differs little.
+#### [Jupyter Notebook Link](https://github.com/lpyuan/Individual-Project/blob/master/Data%20Viz.ipynb)
 
-## 2. Fewer People Die From Gun Violence In States With Stronger Gun Laws.
+## 3. Redesin Data Product
 
-Original Chart | First Version
--------------  | -------------
-![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
-
-Revised Version | 
--------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
-
-First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) ; Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
-
-+ When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
-
-+ After some research, I found that Giffords Law Center graded and ranked all 50 states on the relative strength or weakness of their gun laws every year. To rank and grade the gun law strength, they used six policies including Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. 
-
-+ So I retrieved the latest data in 2017 to find the correlation between gun law strength ranking and gun death rate ranking. From 1 to 50,for gun law strength ranking, it means the gun laws from strongest to weakest, and for gun death rate, it means gun deaths from the most death to fewest deaths per capita. And different colors represent their differents grade of gun law. 
-
-+ From the above chart, we can see high gun law grades are associated with low gun death rates and low gun law grades with high gun death rates. There are 25 states earning an F in gray color. California is the only one state graded A which has a strongest gun laws in nation and a correspondingly low gun death rate. In 2017, it further strengthened its gun laws by prohibiting hate crime offenders from accessing guns and funding urban gun violence reduction programs.
-
-+ For further enhancements, I think maybe I would further try visualize data of recent four or five years to see the gun law progress of each state and its influences on gun deaths.
-
-## 3. Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
+### 3.1 Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
 
 Original Chart | 
 ------------- |
@@ -95,38 +71,57 @@ Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.
 
 + For future enhancements, some study shows that mass shootings make up a tiny portion of America’s firearms death, so I am planning to visualize the portion and compare it to other form of firearm deaths. Maybe this comparison can explain why mass shootings didn’t raise much action on gun control.
 
-## Gun Violence in America (Deceptive Version) 
+### 3.2 Fewer People Die From Gun Violence In States With Stronger Gun Laws.
 
-This file contains the following five parts:
+Original Chart | First Version
+-------------  | -------------
+![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
 
-```{ Catalog }
+Revised Version | 
+-------------  | 
+![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
 
-1. Intro
-2. Data Wrangling 
-3. Deceptive Findings 
-4. Road Map 
-5. References
+First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) ; Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
 
-```
-### 1. Intro
++ When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
 
-Data visualizations do a fantastic job of explaining data in a clear and engaging way. However, one [study](https://medium.com/@Infogram/study-asks-how-deceptive-are-deceptive-visualizations-8ff52fd81239) by New York University shows that if we design the graphical information with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message.
++ After some research, I found that Giffords Law Center graded and ranked all 50 states on the relative strength or weakness of their gun laws every year. To rank and grade the gun law strength, they used six policies including Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. 
 
-And there are some common distortion techniques can lead to major misinterpretation, for example using truncated axis, aspect ratio or area as auantity for message exaggeration, and inverted axis to reverse message. 
++ So I retrieved the latest data in 2017 to find the correlation between gun law strength ranking and gun death rate ranking. From 1 to 50,for gun law strength ranking, it means the gun laws from strongest to weakest, and for gun death rate, it means gun deaths from the most death to fewest deaths per capita. And different colors represent their differents grade of gun law. 
 
-So if we try visualize some of the charts in the [america gun violence](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) article by Vox in a deceptive way, it may lead to major misinterpretation from the reader’s side and make opposite conclusions from the original one.
++ From the above chart, we can see high gun law grades are associated with low gun death rates and low gun law grades with high gun death rates. There are 25 states earning an F in gray color. California is the only one state graded A which has a strongest gun laws in nation and a correspondingly low gun death rate. In 2017, it further strengthened its gun laws by prohibiting hate crime offenders from accessing guns and funding urban gun violence reduction programs.
 
-### 2. Data Wrangling 
++ For further enhancements, I think maybe I would further try visualize data of recent four or five years to see the gun law progress of each state and its influences on gun deaths.
 
-Here is the data clean and aggregation part in jupyter file:
+### 3.3 States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
 
-#### [Jupyter Notebook Link](https://github.com/lpyuan/Individual-Project/blob/master/Data%20Viz.ipynb)
+Original Chart | First Version 
+-------------  | ------------- 
+![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
 
-### 3. Deceptive Findings 
+First Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
+
+Revised Version |
+-------------  | 
+![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png) |
+
+Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathByState2013/Sheet7?publish=yes) 
+
++ In the original article, the author cited the first above chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
+
++ From CDC website, we can get data of gun deaths per 100,000 in 2017 for each state. But for gun ownership, there are different parameters to evaluate. The original gun ownership rate data is from a nationally representative sample of 4000 US adults to assess gun ownership and social gun culture performed in October 2013, and there is no same data in in recent years, so I decided to use the civilian-owned guns per 100 people in 2017 to represent this gun ownership.
+
++ Firstly,I found the data of number of guns owned by each state in 2017 from ATF report and then got the data of states’ estimated population of the same year. In this way, I added one variable in Tableau called civilian-owned guns per 100 people calculated by 100(num of guns)/(num of population). And then by using two slightly changed variables, i redesigned the second aboved chart. 
+
++ Compared to the original chart, it is interesting to find that if we used civilian-owned data of each states, the results does change in another way. The relationship between gun deaths and gun ownership became not obviously linear related. About gun ownership, except for Wyoming state,civilian-owned guns in  other states are in the range of 0-5 per 100 people,but their gun deaths rate has big difference. And the linear trending line in the redesign chart also couldn’t explain the conclusion as the original chart.
+
++ So for future enhancements, it is reasonable to visualize the crime rate including violent crime and non-violent crime or firearm related homicide and suicides of each state to find factors influencing states gun deaths when their gun ownership differs little.
+
+## 4. Deceptive Data Product
 
 From the seventeen charts listed in the article, I chose three of them and used different data distortion techniques including inversted Y-axis, truncted X-axis and improper scaling presenting the data in an opposite way.
 
-#### 3.1 States with more guns have more gun deaths?
+### 4.1 States with more guns have more gun deaths?
 
 Original Chart | First Deceptive
 -------------  | -------------
@@ -142,7 +137,7 @@ From the original chart on the left, the article illustrates that states with mo
 
 But when we invert the rate of death per 10,000, the chart would be presented in an opposite way,which is exactly on the right. Using the same data in 2013 from a study in Injury Prevention and the Centers for Disease Control and Prevention(CDC), the trending line become downward but actually represents increasing. If readers still explain this chart from a normal understanding of axis meaning, then it might mislead the conclusion to be *"more gunownership, less death rate"*.
 
-#### 3.2 Gun homicides have declined over the past couple decades?
+### 4.2 Gun homicides have declined over the past couple decades?
 
 Original Chart | Deceptive Chart
 -------------  | -------------
@@ -158,7 +153,7 @@ The article argued that gun homicides have declined over the past couple decades
 
 But if we only choose the data from 1999 to 2010 and also add some recent years data,the result can be completely different. Just as the deceptive chart shows, it seems that gun homicides (like all homicides) keep stable for years and even starts increasing from 2014 to 2016. Because we manipulated the starting data point and only present the stable period, then the conclusion became totally opposite by the truncated axis visual distortion.
 
-#### 3.3 Most gun deaths are not suicides?
+### 4.3 Most gun deaths are not suicides?
 
 Original Chart | First Deceptive 
 -------------  | -------------
@@ -176,11 +171,11 @@ The author held the opinion that the majority of gun-related deaths in the US ar
 
 While if we use a distorted area chart instead of lines together with a truncted Y-axis, then it could be visually deceptive and might mislead readers to make the conclusion that the firearm homicides are more than suicides. Because the deceptive chart started the death number from 15k, which intentionally dimished the suicide area size with an improper scaling. And when we just compared the area size of these two, the visual effect would lead to a mistake.
 
-### 4. Road Map
+## 5. Summary and Outlook
 
 For future enhancement, I think it will better sharpen my kills to try different deception techniques like misusing the dual-axis,omitting data and ignoring conventions. In this way, I can have a full understanding of what deceptive visualizations are and how much of an impact they can have. Then it will remind me of avoding making these mistakes in the future.
 
-### 5. References
+## 6. References
 
 Visualization:Misleading axes on graphs
 http://callingbullshit.org/tools/tools_misleading_axes.html
