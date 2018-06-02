@@ -9,16 +9,11 @@ output: html_document
 
 ## 1. States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
 
-Original Chart | 
--------------  |
-![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | 
+Original Chart | First Version 
+-------------  | ------------- 
+![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
 
-First Version |
-------------- | 
-|![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png) |
-
-+ Workbook link: 
-https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes
+[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
 
 + In the original article, the author cited the first above chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
 
@@ -51,18 +46,19 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths20
 
 ## 3. Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
 
-Original Chart | First Version
+Original Chart | First Version-1
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)|![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)
 
-+ Workbook link: 
-https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootings2014-2018/MassShooting?publish=yes
+[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootings2014-2018/MassShooting?publish=yes)
 
-![](https://github.com/lpyuan/AddPics/blob/master/MassShootings2.png)
-+ Workbook link: 
-https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsStatistics2014-2018_05/NumMassShootings?publish=yes
+First Version-2|
+-------------  | ![](https://github.com/lpyuan/AddPics/blob/master/MassShootings2.png)
 
-Revised Version
+[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsStatistics2014-2018_05/NumMassShootings?publish=yes)
+
+Revised Version|
+-------------  | 
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/MassShootingsByState2013-2017/MassShooting?publish=yes)
 
