@@ -114,13 +114,15 @@ From the seventeen charts listed in the article, I chose three of them and used 
 
 #### 3.1 States with more guns have more gun deaths?
 
-Original Chart | Deceptive Chart
+Original Chart | First Deceptive
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)|![](https://github.com/lpyuan/AddPics/blob/master/Gun%20Ownership.png)
 
-[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes)
+Revised Version |
+-------------  |
+![](https://github.com/lpyuan/AddPics/blob/master/Ownership_Deceptive.png)
 
-Data Source: [Gun ownership and social gun culture](http://europepmc.org/articles/pmc4809774)
+First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes) ; Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathsByState2013-Deceptive_2/Sheet8?publish=yes)
 
 From the original chart on the left, the article illustrates that states with more guns tend to have far more gun deaths, including homicides and suicides, though there are several outliers. And the increasing trending line also seems t to strenghthen this opinion. 
 
