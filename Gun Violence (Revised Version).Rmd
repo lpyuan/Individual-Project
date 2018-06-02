@@ -16,6 +16,7 @@ This projects will comprise of the following several parts:
    4.2 Finding TWO
    4.3 Finding Three
 5. Summary and Outlook
+6. References
 
 ```
 
@@ -145,7 +146,7 @@ The article argued that gun homicides have declined over the past couple decades
 
 In the first version,if we only choose the data from 1999 to 2010 and also add some recent years data,the result can be completely different. Just as the deceptive chart shows, it seems that gun homicides (like all homicides) keep stable for years and even starts increasing from 2014 to 2016. Because we manipulated the starting data point and only present the stable period, then the conclusion became totally opposite by the truncated axis visual distortion.
 
-While for the revised version, I shinked the Y-axis range from 0-8 to 2-5. In this way the trend seems fluctuated remarkably, which might seem to be similiar with the original chart. It can be deceptively tell that the trend of gun death rate of homicides goes up and down, just like the original chart but had a totally different increasing trend from 3.5 in to 4.5 in 2017 which exceed the start year number.
+While for the revised version, I shinked the Y-axis range from 0-8 to 2-5. In this way the trend seems fluctuated remarkably, which might seem to be similiar with the original chart. It can be deceptively tell that the trend of gun death rate of homicides goes up and down, just like the original chart but had a totally different increasing trend from 3.5 in 2014 to 4.5 in 2016.
 
 ### 4.3 Most gun deaths are not suicides?
 
@@ -161,13 +162,18 @@ Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.
 
 The author held the opinion that the majority of gun-related deaths in the US are suicides. And from the original graph we can obviously see that the darker color line representing suicide is on the upper part for the whole period and ended with a big increase than the homicide line.
 
-While if we use a distorted area chart instead of lines together with a truncted Y-axis, then it could be visually deceptive and might mislead readers to make the conclusion that the firearm homicides are more than suicides. Because the deceptive chart started the death number from 15k, which intentionally dimished the suicide area size with an improper scaling. And when we just compared the area size of these two, the visual effect would lead to a mistake.
+In the first version,if we use a distorted area chart instead of lines together with a truncted Y-axis, then it could be visually deceptive and might mislead readers to make the conclusion that the firearm homicides are more than suicides. Because the deceptive chart started the death number from 15k, which intentionally dimished the suicide area size with an improper scaling. And when we just compared the area size of these two, the visual effect would lead to a mistake.
+
+For the revised version, I changed the colors from two similiar ones to two strongly comparative ones to firstly present a visual impact. And instead of showing filters on the top right which might hard to see clearly, I highlight these two variables names onto the area. In this way, it might better to leave a deceptive impression.
 
 ## 5. Summary and Outlook
 
-For future enhancement, I think it will better sharpen my kills to try different deception techniques like misusing the dual-axis,omitting data and ignoring conventions. In this way, I can have a full understanding of what deceptive visualizations are and how much of an impact they can have. Then it will remind me of avoding making these mistakes in the future.
+In this project, I put much efforts on sharpen my kills to try different deception techniques like misusing the dual-axis,omitting data and ignoring conventions. In this way, I can have a full understanding of what deceptive visualizations are and how much of an impact they can have. Then it will remind me of avoding making these mistakes in the future.
 
 ## 6. References
+
+GUNS AND STATES
+http://slatestarcodex.com/2016/01/06/guns-and-states/
 
 Visualization:Misleading axes on graphs
 http://callingbullshit.org/tools/tools_misleading_axes.html
@@ -183,3 +189,6 @@ https://heapanalytics.com/blog/data-stories/how-to-lie-with-data-visualization
 
 11 Most Useless And Misleading Infographics On The Internet
 https://io9.gizmodo.com/11-most-useless-and-misleading-infographics-on-the-inte-1688239674
+
+How to Tell a Story with Data
+https://hbr.org/2013/04/how-to-tell-a-story-with-data
