@@ -30,7 +30,9 @@ Inspired by a Vox [article](https://www.vox.com/policy-and-politics/2017/10/2/16
 
 The data uesd in this projects are generated from different public data sources.
 
-Data of deaths caused by firearm by states is downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html. The data represented firearm caused death in each state each year, from 1999 to 2016.
+Gun Law Strength Data: [The Giffords Law Center](http://lawcenter.giffords.org/scorecard/)
+
+Multiple Cause of Death Data: [CDC](https://wonder.cdc.gov/mcd.html). The data represented firearm caused death in each state each year, from 1999 to 2016.
 
 Here is the data clean and aggregation part in jupyter file:
 
