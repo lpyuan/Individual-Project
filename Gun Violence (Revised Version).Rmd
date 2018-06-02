@@ -29,7 +29,7 @@ Inspired by a Vox [article](https://www.vox.com/policy-and-politics/2017/10/2/16
 
 ## 2. Data Source and Wranging
 
-The data uesd in this projects are generated from different public data sources.
+The data uesd in this projects are generated mainly from the following public data sources:
 
 + Mass Shootings Data: [Gun Violence Archive](http://www.shootingtracker.com/)
 + Gun Law Strength Data: [The Giffords Law Center](http://lawcenter.giffords.org/scorecard/)
@@ -40,6 +40,10 @@ The data uesd in this projects are generated from different public data sources.
 Here is the data clean and aggregation part in jupyter file:
 
 #### [Jupyter Notebook Link](https://github.com/lpyuan/Individual-Project/blob/master/Data%20Viz.ipynb)
+
+Here are all the datasets exported to Tableau after data collection and wrangling:
+
+#### [Viz Data Sets](https://github.com/lpyuan/Viz-Data-Sets)
 
 ## 3. Redesign Data Product
 
