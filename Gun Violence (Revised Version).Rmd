@@ -77,11 +77,13 @@ Original Chart | First Version
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
 
+First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) 
+
 Revised Version | 
 -------------  | 
 ![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
 
-First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) ; Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
+Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
 
 + When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
 
@@ -127,11 +129,13 @@ Original Chart | First Deceptive
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png)|![](https://github.com/lpyuan/AddPics/blob/master/Gun%20Ownership.png)
 
+First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes)
+
 Revised Version |
 -------------  |
 ![](https://github.com/lpyuan/AddPics/blob/master/Ownership_Deceptive.png)
 
-First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes) ; Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathsByState2013-Deceptive_2/Sheet8?publish=yes)
+Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathsByState2013-Deceptive_2/Sheet8?publish=yes)
 
 From the original chart on the left, the article illustrates that states with more guns tend to have far more gun deaths, including homicides and suicides, though there are several outliers. And the increasing trending line also seems t to strenghthen this opinion. 
 
@@ -147,7 +151,7 @@ Revised Version|
 -------------  | 
 ![](https://github.com/lpyuan/AddPics/blob/master/Rate_Homicide_Deceptive_2.png) |
 
-Deceptive Chart: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes) ; Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths_Deceptive_2/Sheet1?publish=yes)
+First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes) ; Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths_Deceptive_2/Sheet1?publish=yes)
 
 The article argued that gun homicides have declined over the past couple decades. And from the original chart on the left, we can see from 1981 to 2010, the rate of firearm homicide deaths indeed has two sudden decreases. It also shows the decreasing trend, especially the maximum value around 1993 was 7.0, but in 2010 this value became the minimum 3.6. 
 
@@ -159,13 +163,13 @@ Original Chart | First Deceptive
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/firearm_suicide_homicide.png)|![](https://github.com/lpyuan/AddPics/blob/master/Firearm_suicide.png)
 
-[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
+First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
 
 Revised Version |
 -------------  |
 ![](https://github.com/lpyuan/AddPics/blob/master/H&S.png)
 
-[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide1999-2016-Deceptive_2/Sheet2?publish=yes)
+Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide1999-2016-Deceptive_2/Sheet2?publish=yes)
 
 The author held the opinion that the majority of gun-related deaths in the US are suicides. And from the original graph we can obviously see that the darker color line representing suicide is on the upper part for the whole period and ended with a big increase than the homicide line.
 
