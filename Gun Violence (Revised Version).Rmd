@@ -132,9 +132,15 @@ Original Chart | Deceptive Chart
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/rate_of_firearms.png)|![](https://github.com/lpyuan/AddPics/blob/master/Rate_of_deaths.png)
 
-[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes)
+Deceptive Chart: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths1999-2016/Dashboard1?publish=yes)
 
 Data Source:[CDC Multiple Cause of Death Data](https://wonder.cdc.gov/mcd.html)
+
+Revised Version |
+-------------  | 
+![](https://github.com/lpyuan/AddPics/blob/master/Rate_Homicide_Deceptive_2.png.png) |
+
+Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths_Deceptive_2/Sheet1?publish=yes)
 
 The article argued that gun homicides have declined over the past couple decades. And from the original chart on the left, we can see from 1981 to 2010, the rate of firearm homicide deaths indeed has two sudden decreases. It also shows the decreasing trend, especially the maximum value around 1993 was 7.0, but in 2010 this value became the minimum 3.6. 
 
