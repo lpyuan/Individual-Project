@@ -165,9 +165,9 @@ Original Chart | First Deceptive
 
 First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
 
-Revised Version|
--------------  |
-![](https://github.com/lpyuan/AddPics/blob/master/H&S.png)|
+Revised Version |
+-------------   |
+![](https://github.com/lpyuan/AddPics/blob/master/H&S.png) |
 
 Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide1999-2016-Deceptive_2/Sheet2?publish=yes)
 
