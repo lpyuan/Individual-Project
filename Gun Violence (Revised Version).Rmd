@@ -47,11 +47,11 @@ Here is the data clean and aggregation part in jupyter file:
 
 Original Chart | First Version
 -------------  | -------------
-![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
+![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png) | 
 
 First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) 
 
-Revised Version | 
+Revised Version| 
 -------------  | 
 ![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
 
@@ -75,7 +75,7 @@ Original Chart | First Version
 
 First Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
 
-Revised Version |
+Revised Version|
 -------------  | 
 ![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png) |
 
@@ -93,11 +93,11 @@ Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.
 
 ### 3.3 Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
 
-Original Chart | 
+Original Chart| 
 ------------- |
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)|
 
-First Version-1 | First Version-2 
+First Version-1| First Version-2 
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/Mass%20Shootings.png)| ![](https://github.com/lpyuan/AddPics/blob/master/MassShootings2.png) |
 
@@ -131,9 +131,9 @@ Original Chart | First Deceptive
 
 First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths_Deceptive/Sheet3?publish=yes)
 
-Revised Version |
+Revised Version|
 -------------  |
-![](https://github.com/lpyuan/AddPics/blob/master/Ownership_Deceptive.png)
+![](https://github.com/lpyuan/AddPics/blob/master/Ownership_Deceptive.png)|
 
 Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathsByState2013-Deceptive_2/Sheet8?publish=yes)
 
@@ -165,9 +165,9 @@ Original Chart | First Deceptive
 
 First Deceptive: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
 
-Revised Version |
+Revised Version|
 -------------  |
-![](https://github.com/lpyuan/AddPics/blob/master/H&S.png)
+![](https://github.com/lpyuan/AddPics/blob/master/H&S.png)|
 
 Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide1999-2016-Deceptive_2/Sheet2?publish=yes)
 
