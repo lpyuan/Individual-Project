@@ -35,10 +35,13 @@ Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.
 
 Original Chart | First Version
 -------------  | -------------
-![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | 
-![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  |
+![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
 
-First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) ; First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes)
+Revised Version |
+-------------  | 
+![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
+
+First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) ; Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
 
 + When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
 
