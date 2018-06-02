@@ -16,7 +16,8 @@ Original Chart | First Version
 First Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
 
 Revised Version |
--------------  | ![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png)|
+-------------  | 
+![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png) |
 
 Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathByState2013/Sheet7?publish=yes) 
 
