@@ -138,7 +138,7 @@ Data Source:[CDC Multiple Cause of Death Data](https://wonder.cdc.gov/mcd.html)
 
 Revised Version|
 -------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/Rate_Homicide_Deceptive_2.png.png) |
+![](https://github.com/lpyuan/AddPics/blob/master/Rate_Homicide_Deceptive_2.png) |
 
 Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/RateofFirearmHomicideDeaths_Deceptive_2/Sheet1?publish=yes)
 
