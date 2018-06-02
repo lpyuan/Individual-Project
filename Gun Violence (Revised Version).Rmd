@@ -21,15 +21,10 @@ This projects will comprise of the following several parts:
 
 ## 1. Project Introduction
 
-The topic for this project is Gun Violence in the United States. The data products displayed below are inspired by an article of Vox -- America's unique gun violence problem, explained in 17 maps and charts.
+America is an exceptional country when it comes to guns. In this project, we will focus on this unique topic -  gun violence and explain interesting findings by data visualization.
 
-This project contains two parts: An redesign of existing data product and a deceptive data product. The objective is to learn from others, sharpen the critical perspective on data visualizations, reason about design decisions, and attempt to improve data visualizations.
+Inspired by a Vox [article](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) titled "America's unique gun violence problem, explained in 17 maps and charts", we developed the following two data products including a redesign of existing data product and a deceptive data product. Comparing three versions of charts together, it indeed can sharpen our critical perspectives on data visualizations,logical reasoning about design decisions, and efforts on data visualization skiis improvement. 
 
-Data visualizations do a fantastic job of explaining data in a clear and engaging way. However, one [study](https://medium.com/@Infogram/study-asks-how-deceptive-are-deceptive-visualizations-8ff52fd81239) by New York University shows that if we design the graphical information with or without an intent to deceive, that may create a belief about the message and/or its components, which varies from the actual message.
-
-And there are some common distortion techniques can lead to major misinterpretation, for example using truncated axis, aspect ratio or area as auantity for message exaggeration, and inverted axis to reverse message. 
-
-So if we try visualize some of the charts in the [america gun violence](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) article by Vox in a deceptive way, it may lead to major misinterpretation from the reader’s side and make opposite conclusions from the original one.
 
 ## 2. Data Source and Wranging
 
@@ -48,7 +43,7 @@ Here is the data clean and aggregation part in jupyter file:
 Original Chart | First Version
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png) | 
-First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) 
+[Original Chart Link](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) | First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) |
 
 Revised Version| 
 -------------  | 
