@@ -13,7 +13,12 @@ Original Chart | First Version
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
 
-[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
+First Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
+
+Revised Version |
+-------------  | ![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png)|
+
+Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathByState2013/Sheet7?publish=yes) 
 
 + In the original article, the author cited the first above chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
 
@@ -32,8 +37,7 @@ Original Chart | First Version
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | 
 ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  |
 
-+ Workbook link: 
-https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes
+First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) ; First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes)
 
 + When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
 
