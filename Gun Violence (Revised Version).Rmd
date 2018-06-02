@@ -146,13 +146,17 @@ But if we only choose the data from 1999 to 2010 and also add some recent years 
 
 #### 3.3 Most gun deaths are not suicides?
 
-Original Chart | Deceptive Chart
+Original Chart | First Deceptive 
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/firearm_suicide_homicide.png)|![](https://github.com/lpyuan/AddPics/blob/master/Firearm_suicide.png)
 
 [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide_2/Sheet2?publish=yes)
 
-Data Source:[CDC Multiple Cause of Death Data](https://wonder.cdc.gov/mcd.html)
+Revised Version |
+-------------  |
+![](https://github.com/lpyuan/AddPics/blob/master/H&S.png)
+
+[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/FirearmSuicidevs_Homicide1999-2016-Deceptive_2/Sheet2?publish=yes)
 
 The author held the opinion that the majority of gun-related deaths in the US are suicides. And from the original graph we can obviously see that the darker color line representing suicide is on the upper part for the whole period and ended with a big increase than the homicide line.
 
