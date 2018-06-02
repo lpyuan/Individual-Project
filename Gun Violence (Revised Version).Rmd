@@ -1,6 +1,6 @@
 # America’s Unique Gun Violence Problem
 
-# Redesign and Deceptive Data Products
+## Redesign and Deceptive Data Products
 
 This projects will comprise of the following several parts:
 
