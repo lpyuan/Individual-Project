@@ -37,9 +37,9 @@ Original Chart | First Version
 -------------  | -------------
 ![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
 
-Revised Version |
--------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
+Revised Version-1 | Revised Version-2
+-------------  | -------------
+![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Control_Death2.png)
 
 First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) ; Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
 
