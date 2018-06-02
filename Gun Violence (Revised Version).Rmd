@@ -47,8 +47,8 @@ https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths20
 
 ## 3. Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
 
-Original Chart | First Version-1
--------------  | -------------
+Original Chart | 
+------------- |
 ![](https://github.com/lpyuan/AddPics/blob/master/Picture1.png)|
 
 First Version-1|
