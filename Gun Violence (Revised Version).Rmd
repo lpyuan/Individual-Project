@@ -43,7 +43,55 @@ Here is the data clean and aggregation part in jupyter file:
 
 ## 3. Redesin Data Product
 
-### 3.1 Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
+### 3.1 Fewer People Die From Gun Violence In States With Stronger Gun Laws.
+
+Original Chart | First Version
+-------------  | -------------
+![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
+
+First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) 
+
+Revised Version | 
+-------------  | 
+![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
+
+Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
+
++ When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
+
++ After some research, I found that Giffords Law Center graded and ranked all 50 states on the relative strength or weakness of their gun laws every year. To rank and grade the gun law strength, they used six policies including Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. 
+
++ So I retrieved the latest data in 2017 to find the correlation between gun law strength ranking and gun death rate ranking. From 1 to 50,for gun law strength ranking, it means the gun laws from strongest to weakest, and for gun death rate, it means gun deaths from the most death to fewest deaths per capita. And different colors represent their differents grade of gun law. 
+
++ From the above chart, we can see high gun law grades are associated with low gun death rates and low gun law grades with high gun death rates. There are 25 states earning an F in gray color. California is the only one state graded A which has a strongest gun laws in nation and a correspondingly low gun death rate. In 2017, it further strengthened its gun laws by prohibiting hate crime offenders from accessing guns and funding urban gun violence reduction programs.
+
++ For further enhancements, I think maybe I would further try visualize data of recent four or five years to see the gun law progress of each state and its influences on gun deaths.
+
+### 3.2 States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
+
+Original Chart | First Version 
+-------------  | ------------- 
+![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
+
+First Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
+
+Revised Version |
+-------------  | 
+![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png) |
+
+Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathByState2013/Sheet7?publish=yes) 
+
++ In the original article, the author cited the first above chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
+
++ From CDC website, we can get data of gun deaths per 100,000 in 2017 for each state. But for gun ownership, there are different parameters to evaluate. The original gun ownership rate data is from a nationally representative sample of 4000 US adults to assess gun ownership and social gun culture performed in October 2013, and there is no same data in in recent years, so I decided to use the civilian-owned guns per 100 people in 2017 to represent this gun ownership.
+
++ Firstly,I found the data of number of guns owned by each state in 2017 from ATF report and then got the data of states’ estimated population of the same year. In this way, I added one variable in Tableau called civilian-owned guns per 100 people calculated by 100(num of guns)/(num of population). And then by using two slightly changed variables, i redesigned the second aboved chart. 
+
++ Compared to the original chart, it is interesting to find that if we used civilian-owned data of each states, the results does change in another way. The relationship between gun deaths and gun ownership became not obviously linear related. About gun ownership, except for Wyoming state,civilian-owned guns in  other states are in the range of 0-5 per 100 people,but their gun deaths rate has big difference. And the linear trending line in the redesign chart also couldn’t explain the conclusion as the original chart.
+
++ So for future enhancements, it is reasonable to visualize the crime rate including violent crime and non-violent crime or firearm related homicide and suicides of each state to find factors influencing states gun deaths when their gun ownership differs little.
+
+### 3.3 Number of Mass Shootings Incidents Declined but Total Casualty Keeps Increasing.
 
 Original Chart | 
 ------------- |
@@ -70,54 +118,6 @@ Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.
 + But if we analyzed them in each year, I found that the total number incidents decreased since 2016, while the number of casualty keeps increasing especially in 2017. 
 
 + For future enhancements, some study shows that mass shootings make up a tiny portion of America’s firearms death, so I am planning to visualize the portion and compare it to other form of firearm deaths. Maybe this comparison can explain why mass shootings didn’t raise much action on gun control.
-
-### 3.2 Fewer People Die From Gun Violence In States With Stronger Gun Laws.
-
-Original Chart | First Version
--------------  | -------------
-![](https://github.com/lpyuan/AddPics/blob/master/picture%202.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunControl.png)  
-
-First Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeaths2017/Sheet4?publish=yes) 
-
-Revised Version | 
--------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/Control_Death.png) |
-
-Revised Version:[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunControlvs_GunDeathByState2017/Sheet4?publish=yes)
-
-+ When it comes to gun control vs gun deaths, the article used one parameter that states with at least one firearm law designed to protect children in place to explain if the state have tighter gun control from the data in 2007.  But i think this might not be enough to evaluate specific differences between states on how strong their gun control is. And there should be more parameters to compare states in the form of ranking or grading.
-
-+ After some research, I found that Giffords Law Center graded and ranked all 50 states on the relative strength or weakness of their gun laws every year. To rank and grade the gun law strength, they used six policies including Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. 
-
-+ So I retrieved the latest data in 2017 to find the correlation between gun law strength ranking and gun death rate ranking. From 1 to 50,for gun law strength ranking, it means the gun laws from strongest to weakest, and for gun death rate, it means gun deaths from the most death to fewest deaths per capita. And different colors represent their differents grade of gun law. 
-
-+ From the above chart, we can see high gun law grades are associated with low gun death rates and low gun law grades with high gun death rates. There are 25 states earning an F in gray color. California is the only one state graded A which has a strongest gun laws in nation and a correspondingly low gun death rate. In 2017, it further strengthened its gun laws by prohibiting hate crime offenders from accessing guns and funding urban gun violence reduction programs.
-
-+ For further enhancements, I think maybe I would further try visualize data of recent four or five years to see the gun law progress of each state and its influences on gun deaths.
-
-### 3.3 States With More Guns Don’t Necessarily Tend To Have More Gun Deaths.
-
-Original Chart | First Version 
--------------  | ------------- 
-![](https://github.com/lpyuan/AddPics/blob/master/GunDeath.png) | ![](https://github.com/lpyuan/AddPics/blob/master/GunOwnership_Deaths.png)
-
-First Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeaths2017/GunOwnership?publish=yes)
-
-Revised Version |
--------------  | 
-![](https://github.com/lpyuan/AddPics/blob/master/Gun_Ownership_Death.png) |
-
-Revised Version: [Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/GunOwnershipvs_GunDeathByState2013/Sheet7?publish=yes) 
-
-+ In the original article, the author cited the first above chart to present the relationship between gun ownership and gun deaths, which is that states with more guns tend to have far more gun deaths, including homicides and suicides. And the conclusion is made from the the data in 2013.So i think if we use more updated data,maybe something will change. 
-
-+ From CDC website, we can get data of gun deaths per 100,000 in 2017 for each state. But for gun ownership, there are different parameters to evaluate. The original gun ownership rate data is from a nationally representative sample of 4000 US adults to assess gun ownership and social gun culture performed in October 2013, and there is no same data in in recent years, so I decided to use the civilian-owned guns per 100 people in 2017 to represent this gun ownership.
-
-+ Firstly,I found the data of number of guns owned by each state in 2017 from ATF report and then got the data of states’ estimated population of the same year. In this way, I added one variable in Tableau called civilian-owned guns per 100 people calculated by 100(num of guns)/(num of population). And then by using two slightly changed variables, i redesigned the second aboved chart. 
-
-+ Compared to the original chart, it is interesting to find that if we used civilian-owned data of each states, the results does change in another way. The relationship between gun deaths and gun ownership became not obviously linear related. About gun ownership, except for Wyoming state,civilian-owned guns in  other states are in the range of 0-5 per 100 people,but their gun deaths rate has big difference. And the linear trending line in the redesign chart also couldn’t explain the conclusion as the original chart.
-
-+ So for future enhancements, it is reasonable to visualize the crime rate including violent crime and non-violent crime or firearm related homicide and suicides of each state to find factors influencing states gun deaths when their gun ownership differs little.
 
 ## 4. Deceptive Data Product
 
