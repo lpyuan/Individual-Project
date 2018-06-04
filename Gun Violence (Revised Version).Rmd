@@ -2,7 +2,7 @@
 
 ## Redesign and Deceptive Data Products
 
-This projects will comprise of the following several parts:
+This projects will comprise the following several parts:
 
 ```{Structure}
 1. Project Introduction
@@ -29,7 +29,7 @@ Inspired by a Vox [article](https://www.vox.com/policy-and-politics/2017/10/2/16
 
 ## 2. Data Source and Wranging
 
-The data uesd in this projects are generated mainly from the following public data sources:
+The data used in this projects are generated mainly from the following public data sources:
 
 + Mass Shootings Data: [Gun Violence Archive](http://www.shootingtracker.com/)
 + Gun Law Strength Data: [The Giffords Law Center](http://lawcenter.giffords.org/scorecard/)
