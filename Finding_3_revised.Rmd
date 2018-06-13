@@ -1,0 +1,59 @@
+---
+title: "Revised Finding 3"
+author: "LIPIN"
+date: "6/12/2018"
+output: html_document
+---
+
+### Finding 3 - Does World Cup Really Bring Tourism Gains To Host Countries?
+
+While many factors influence tourism growth, one of the more perceptible contributions e at least, in the public eye, comes from global events, or mega-events.
+
+Mega-events, according to Roche (2000), are large-scale cultural (including commercial and sporting) events, which have a dramatic character, mass popular appeal and international significance. Obviously, FIFA World Cup is a precious opportunity for host countries to attract international tourists and increase their expenditure.
+
+#### <1> International Tourism Number of Arrivals
+
+**Figure 1.1:  International Tourism Number of Arrivals**
+
+![](https://github.com/lpyuan/AddPics/blob/master/France_plus.png)
+
+[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals-1_1995-2016/Sheet1?publish=yes)
+
+**Figure 1.2:  International Tourism Number of Arrivals (Without France)**
+
+![](https://github.com/lpyuan/AddPics/blob/master/Num_Arrivals.png)
+
+[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals1995-2016/Sheet1?publish=yes)
+
+Firstly, according to one [study](https://www.researchgate.net/publication/46443643_The_impact_of_mega-events_on_tourist_arrivals), it is said that a very direct benefit of such mega-events on tourism is the increase of the number of tourists arrivals to the host country in the year of the event. 
+
+So we plot six host countries data of number of arrivals from 1995 to 2016.  For each country, we label out their host year with country name and the number of arrivals. In this way, we can also measure the long-run impact on tourist arrivals, both before and after the event.
+
+From the chart above, we can see the international tourists to France are obviously the biggest one of all years and after hosting World Cup in 1998, especially in the following two years, the number of arrivals keep increasing. 
+
+After we filter out France in the second graph, we can have a better observation of other countries. It shows that Germany also has the same increasing trending with a relatively faster rate. Although South Africa is increasing, the growth rate is pretty small. But for Japan, Korea, and even Brazil, these countries did not show an substantially arising trend around the host year and instead the number of arrivals are all decreased the year after hosting World Cup. 
+
+Maybe because 'regular' tourists change their behaviour when a mega-event is held, either shifting their trip to a different time or different location. This may result in reduced tourism gain, or even loss.
+
+As we cannot analysis many patterns of the number of international tourists, we tried to dig more in the following graph with the expenditure of international tourism.
+
+#### <2> International Tourism Expenditures
+
+**Figure 2:  International Tourism Expenditures** 
+
+![](https://github.com/gleamingMushroom/AddImage/blob/master/International%20tourism%20expenditures.jpg)
+
+[Tableau public link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/Book1/Internationaltourismexpenditures?:iid=5)
+
+Form the aspect of tourism expenditure, when countries host global events, the assumption is often that the exposure and the tourism will massively boost. So far that does seem to be the case for Japan. But France, Germany, Korea and South Africa are all showing a very profitable growth.
+
+Brazil is a little bit different, it has a boost at the host year but followed another rapid drop. vAccording to Wall Street Journal, Brazil tourists seen spending [$2.97 Billion](https://www.wsj.com/articles/brazil-tourists-seen-spending-2-97-billion-during-world-cup-1403010185) during World Cup and $50 Million in Rio de Janeiro during tournament's first weekend.  The total amount includes spending on hotels, transportation and at restaurants and bars, and Rio will attract more cash from tourists because it will host the most matches during the tournament, including the final. 
+
+But for the post world cup years, what's going wrong then? Well firstly the expense of travelling to and within Brazil has been off putting to many, with Brazilians opting in droves to travel abroad with their overvalued Real and foreigners shunning Brazil for exactly the same reason. 
+
+There is also the on-going perception that Brazil is a dangerous  country. However, an equally important problem seems to be a general lack of accurate, attractive and easily available information online in English and other  languages to independent travellers. This leaves even those who want to come to [Brazil](http://www.hiddenpousadasbrazil.com/brazil-blog/how-the-world-cup-might-still-support-a-sustainable-tourism-industry-in-brazil/) unsure about where to go, what to do and how to get around safely. 
+
+#### Limitations and Outlook:
+
++ Change the format to five years prior to the World Cup and compares that to the host year, as well as the five-year periods following.
++ Locating the year that FIFA announced the Host Country, compare the differences of post announcement years to post hosting years' impact on tourism. 
