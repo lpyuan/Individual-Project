@@ -41,8 +41,8 @@ As we cannot analysis many patterns of the number of international tourists, we 
 
 Original Chart | Revised Version 
 -------------  | ------------- 
-![](https://github.com/gleamingMushroom/AddImage/blob/master/International%20tourism%20expenditures.jpg)| ![]()|
-[Original Tableau Link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/Book1/Internationaltourismexpenditures?:iid=5) | [Revised Tableau Link]()|
+![](https://github.com/gleamingMushroom/AddImage/blob/master/International%20tourism%20expenditures.jpg)| ![](https://github.com/lpyuan/AddPics/blob/master/TourismExpenditure.png)|
+[Original Tableau Link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/Book1/Internationaltourismexpenditures?:iid=5) | [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismExpenditure1995-2016_revised/Dashboard1?publish=yes)|
 
 Form the aspect of tourism expenditure, when countries host global events, the assumption is often that the exposure and the tourism will massively boost. So far that does seem to be the case for Japan. But France, Germany, Korea and South Africa are all showing a very profitable growth.
 
