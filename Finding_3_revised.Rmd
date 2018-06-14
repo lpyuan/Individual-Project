@@ -62,7 +62,11 @@ Here are all the datasets exported to Tableau after data collection and wranglin
 
 ## 3. Revised Data Product
 
-### Finding 3 - Does World Cup Really Bring Tourism Gains To Host Countries?
+### Finding 3.1
+
+### Finding 3.2 
+
+### Finding 3.3 - Does World Cup Really Bring Tourism Gains To Host Countries?
 
 While many factors influence tourism growth, one of the more perceptible contributions e at least, in the public eye, comes from global events, or mega-events.
 
