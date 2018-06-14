@@ -134,6 +134,19 @@ Revised Chart-1 | Revised Chart-2
 ![](https://github.com/lpyuan/AddPics/blob/master/Ratio_change.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png)|
 [Revised-1 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet2?publish=yes) | [Revised-2 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
 
+In order to compare six countries using same criteria, we build two functions one is International Tourists over Population Ratio and another one is International Tourism Expenditure over Population Ratio.
+
+Although the economic importance of tourism to a region is predominantly based on the proportion of value that tourism contributes to the total economy, the ratio of visitors compared to the permanent population of a region creates supplementary evidence of the level and impact of tourist density in individual tourism regions. Here are the two ratios we build:
+
+**Tourists Ratio**
+
+![](https://github.com/lpyuan/AddPics/blob/master/Tourist_Ratio.png)
+
+**Expenditure Ratio**
+
+![](https://github.com/lpyuan/AddPics/blob/master/Expenditure_Ratio.png)
+
+
 ### 4. Limitations and Outlook:
 
 + Change the format to five years prior to the World Cup and compares that to the host year, as well as the five-year periods following.
