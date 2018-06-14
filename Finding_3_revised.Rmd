@@ -18,7 +18,8 @@ Original Chart | Revised Version
 
 Original Chart | Revised Version 
 -------------  | ------------- 
-![](https://github.com/lpyuan/AddPics/blob/master/Num_Arrivals.png)| ![](https://github.com/lpyuan/AddPics/blob/master/Revised_Num_2.png)|
+![](https://github.com/lpyuan/AddPics/blob/master/Num_Arrivals.png)| 
+![](https://github.com/lpyuan/AddPics/blob/master/Revised_Num_2.png)|
 [Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals1995-2016/Sheet1?publish=yes) | [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised-2_1995-2016/Sheet1?publish=yes)|
 
 Firstly, according to one [study](https://www.researchgate.net/publication/46443643_The_impact_of_mega-events_on_tourist_arrivals), it is said that a very direct benefit of such mega-events on tourism is the increase of the number of tourists arrivals to the host country in the year of the event. 
