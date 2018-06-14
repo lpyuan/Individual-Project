@@ -20,7 +20,7 @@ Original Chart | Revised Version
 ![](https://github.com/lpyuan/AddPics/blob/master/France_plus.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Revised_Num_Arrivals.png)|
 [Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals-1_1995-2016/Sheet1) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised_1995-2016/Sheet1?publish=yes)|
 
-**Figure 1.2:  International Tourism Number of Arrivals (Without France)**
+**Figure 1.2:  International Tourism Number of Arrivals (Without France & Germany)**
 
 Original Chart | Revised Version 
 -------------  | ------------- 
