@@ -17,7 +17,7 @@ Mega-events, according to Roche (2000), are large-scale cultural (including comm
 
 ![](https://github.com/lpyuan/AddPics/blob/master/France_plus.png)
 
-[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals-1_1995-2016/Sheet1?publish=yes)
+[Tableau Public Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised_1995-2016/Sheet1?publish=yes)
 
 **Figure 1.2:  International Tourism Number of Arrivals (Without France)**
 
