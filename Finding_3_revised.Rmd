@@ -21,19 +21,19 @@ Original Chart | Revised Version
 ![](https://github.com/lpyuan/AddPics/blob/master/Num_Arrivals.png)| ![](https://github.com/lpyuan/AddPics/blob/master/Revised_Num_2.png)|
 [Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals1995-2016/Sheet1?publish=yes) | [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised-2_1995-2016/Sheet1?publish=yes)|
 
-Firstly, according to one [study](https://www.researchgate.net/publication/46443643_The_impact_of_mega-events_on_tourist_arrivals), it is said that a very direct benefit of such mega-events on tourism is the increase of the number of tourists arrivals to the host country in the year of the event. 
+Firstly, according to one study, it is said that a very direct benefit of such mega-events on tourism is the increase of the number of tourists arrivals to the host country in the year of the event.
 
-So we plot six host countries data of number of arrivals from 1995 to 2016.  For each country, we label out their host year with country name and the number of arrivals. In this way, we can also measure the long-run impact on tourist arrivals, both before and after the event.
+So we plot six host countries data of number of arrivals from 1995 to 2016. In this way, we can also measure the long-run impact on tourist arrivals, both before and after the event. For each country, we label out their host year with country name and the number of arrivals. 
 
-From the chart above, we can see the international tourists to France are obviously the biggest one of all years and after hosting World Cup in 1998, especially in the following two years, the number of arrivals keep increasing. 
+For revised version, since we have two charts separately divided countries into two groups, so in Figure 1.1, we specifically highlight France (blue color) and Germany (orange color). Besides, we labeled their host year data for comparison. In this way, we changed the number of colors from six to two. Because after presentation, some of our audience suggested that multiple colors and labels may hide main information that we want to express.
 
-After we filter out France in the second graph, we can have a better observation of other countries. It shows that Germany also has the same increasing trending with a relatively faster rate. Although South Africa is increasing, the growth rate is pretty small. But for Japan, Korea, and even Brazil, these countries did not show an substantially arising trend around the host year and instead the number of arrivals are all decreased the year after hosting World Cup. 
+Now from the revised chart above, we can more clearly see that the international tourists to France and Germany are obviously two biggest countries whose international tourists increase after hosting World Cup, especially in the following two years.  
 
-Maybe because 'regular' tourists change their behaviour when a mega-event is held, either shifting their trip to a different time or different location. This may result in reduced tourism gain, or even loss.
+In revised version of Figure 1.2, after we filter out France and Germany, we can have a better observation of other countries. Although South Africa and Japan is increasing, the growth rate is pretty small. It did not show an substantially arising trend around the host year. Meanwhile, I find that Brazil and Korea are two countries showing different decreasing trends from other two in the year after hosting World Cup.  This also help us to dig more on the reason why these two countries were negatively impacted. 
+
+After our research, on general, maybe because 'regular' tourists change their behaviors when a mega-event is held, either shifting their trip to a different time or different location. This may result in reduced tourism gain, or even loss. For Brazil and Korea, because of their political scandal and cheating scandal, international media did much negative reports on these two countries and thus instead bring some damages to their national image which may harm their tourism.
 
 As we cannot analysis many patterns of the number of international tourists, we tried to dig more in the following graph with the expenditure of international tourism.
-
-#HOW WE REVISE
 
 #### <2> International Tourism Expenditures
 
