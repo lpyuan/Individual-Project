@@ -127,8 +127,12 @@ Revised Chart-1 | Revised Chart-2
 ![](https://github.com/lpyuan/AddPics/blob/master/Ratio_change.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png)|
 [Revised-1 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet2?publish=yes) | [Revised-2 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
 
-
-#### Limitations and Outlook:
+### 4. Limitations and Outlook:
 
 + Change the format to five years prior to the World Cup and compares that to the host year, as well as the five-year periods following.
 + Locating the year that FIFA announced the Host Country, compare the differences of post announcement years to post hosting years' impact on tourism. 
+
+### 5. References:
+
+
+
