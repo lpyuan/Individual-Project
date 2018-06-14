@@ -53,6 +53,14 @@ But for the post world cup years, what's going wrong then? Well firstly the expe
 
 There is also the on-going perception that Brazil is a dangerous  country. However, an equally important problem seems to be a general lack of accurate, attractive and easily available information online in English and other  languages to independent travellers. This leaves even those who want to come to [Brazil](http://www.hiddenpousadasbrazil.com/brazil-blog/how-the-world-cup-might-still-support-a-sustainable-tourism-industry-in-brazil/) unsure about where to go, what to do and how to get around safely. 
 
+#### <3> Tourists Ratio & Expenditure Ratio
+
+**Figure 3:  Tourists & Expenditure Over Population Ratio** 
+
+![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png)
+
+[Tableau public link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet1?publish=yes)
+
 #### Limitations and Outlook:
 
 + Change the format to five years prior to the World Cup and compares that to the host year, as well as the five-year periods following.
