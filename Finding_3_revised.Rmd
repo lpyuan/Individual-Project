@@ -113,7 +113,7 @@ Revised Version|
 ![](https://github.com/lpyuan/AddPics/blob/master/TourismExpenditure.png) |
 [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismExpenditure1995-2016_revised/Dashboard1?publish=yes)
 
-Form the aspect of tourism expenditure, when countries host global events, the assumption is often that the exposure and the tourism will massively boost. So far that does seem to be the case for Japan. But France, Germany, Korea and South Africa are all showing a very profitable growth.
+From the aspect of tourism expenditure, when countries host global events, the assumption is often that the exposure and the tourism will massively boost. So far that does seem to be the case for Japan. But France, Germany, Korea and South Africa are all showing a very profitable growth.
 
 Brazil is a little bit different, it has a boost at the host year but followed another rapid drop. vAccording to Wall Street Journal, Brazil tourists seen spending [$2.97 Billion](https://www.wsj.com/articles/brazil-tourists-seen-spending-2-97-billion-during-world-cup-1403010185) during World Cup and $50 Million in Rio de Janeiro during tournament's first weekend.  The total amount includes spending on hotels, transportation and at restaurants and bars, and Rio will attract more cash from tourists because it will host the most matches during the tournament, including the final. 
 
