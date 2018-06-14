@@ -12,14 +12,14 @@ Mega-events, according to Roche (2000), are large-scale cultural (including comm
 Original Chart | Revised Version 
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/France_plus.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Revised_Num_Arrivals.png)|
-[Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals-1_1995-2016/Sheet1) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised_1995-2016/Sheet1?publish=yes)|
+[Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals-1_1995-2016/Sheet1) | [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised_1995-2016/Sheet1?publish=yes)|
 
 **Figure 1.2:  International Tourism Number of Arrivals (Without France & Germany)**
 
 Original Chart | Revised Version 
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/Num_Arrivals.png)| ![](https://github.com/lpyuan/AddPics/blob/master/Revised_Num_2.png)|
-[Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals1995-2016/Sheet1?publish=yes) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised-2_1995-2016/Sheet1?publish=yes)|
+[Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals1995-2016/Sheet1?publish=yes) | [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals_revised-2_1995-2016/Sheet1?publish=yes)|
 
 Firstly, according to one [study](https://www.researchgate.net/publication/46443643_The_impact_of_mega-events_on_tourist_arrivals), it is said that a very direct benefit of such mega-events on tourism is the increase of the number of tourists arrivals to the host country in the year of the event. 
 
@@ -58,7 +58,7 @@ There is also the on-going perception that Brazil is a dangerous  country. Howev
 Revised Chart-1 | Revised Chart-2 
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/Ratio_change.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png)|
-[Revised-1 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet2?publish=yes) | Revised Version: [Revised-2 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
+[Revised-1 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet2?publish=yes) | [Revised-2 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
 
 
 #### Limitations and Outlook:
