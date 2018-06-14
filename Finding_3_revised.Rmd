@@ -1,20 +1,17 @@
-# Is
+# Is World Cup Worth it for Host Country?
 
 ## Revised Data Products
 
 This projects will comprise the following several parts:
 
 ```{Structure}
+
 1. Project Introduction
 2. Data Source and Wranging
 3. Redesin Data Product
    3.1 Finding One
    3.2 Finding Two
    3.3 Finding Three
-4. Deceptive Data Product
-   4.1 Finding One
-   4.2 Finding TWO
-   4.3 Finding Three
 5. Summary and Outlook
 6. References
 
