@@ -55,10 +55,10 @@ There is also the on-going perception that Brazil is a dangerous  country. Howev
 
 **Figure 3:  Tourists & Expenditure Over Population Ratio** 
 
-Original Chart | Revised Version 
+Revised Chart-1 | Revised Chart-2 
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/Ratio_change.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png)|
-[Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet2?publish=yes) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
+[Revised-1 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet2?publish=yes) | Revised Version: [Revised-2 Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
 
 
 #### Limitations and Outlook:
