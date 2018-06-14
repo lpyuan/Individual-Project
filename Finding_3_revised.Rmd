@@ -1,9 +1,3 @@
----
-title: "Revised Finding 3"
-author: "LIPIN"
-date: "6/12/2018"
-output: html_document
----
 
 ### Finding 3 - Does World Cup Really Bring Tourism Gains To Host Countries?
 
@@ -38,6 +32,8 @@ After we filter out France in the second graph, we can have a better observation
 Maybe because 'regular' tourists change their behaviour when a mega-event is held, either shifting their trip to a different time or different location. This may result in reduced tourism gain, or even loss.
 
 As we cannot analysis many patterns of the number of international tourists, we tried to dig more in the following graph with the expenditure of international tourism.
+
+#HOW WE REVISE
 
 #### <2> International Tourism Expenditures
 
