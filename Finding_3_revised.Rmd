@@ -61,8 +61,8 @@ There is also the on-going perception that Brazil is a dangerous  country. Howev
 
 Original Chart | Revised Version 
 -------------  | ------------- 
-![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png)|
-[Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/InternationalTourismNumofArrivals-1_1995-2016/Sheet1) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
+![](https://github.com/lpyuan/AddPics/blob/master/Ratio_change.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Ratio.png)|
+[Original Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio/Sheet2?publish=yes) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/lipin.yuan#!/vizhome/HostCountryTouristExpenditureOverPopulationRatio_revised/Sheet1)|
 
 
 #### Limitations and Outlook:
