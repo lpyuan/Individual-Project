@@ -1,3 +1,52 @@
+# Is
+
+## Revised Data Products
+
+This projects will comprise the following several parts:
+
+```{Structure}
+1. Project Introduction
+2. Data Source and Wranging
+3. Redesin Data Product
+   3.1 Finding One
+   3.2 Finding Two
+   3.3 Finding Three
+4. Deceptive Data Product
+   4.1 Finding One
+   4.2 Finding TWO
+   4.3 Finding Three
+5. Summary and Outlook
+6. References
+
+```
+
+## 1. Project Introduction
+
+America is an exceptional country when it comes to guns. In this project, we will focus on this unique topic -  gun violence and explain interesting findings by data visualization.
+
+Inspired by a Vox [article](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) titled "America's unique gun violence problem, explained in 17 maps and charts", we developed the following two data products including a redesign of existing data product and a deceptive data product. Comparing three versions of charts together, it indeed can sharpen our critical perspectives on data visualizations,logical reasoning about design decisions, and efforts on data visualization skiis improvement. 
+
+
+## 2. Data Source and Wranging
+
+The data used in this projects are generated mainly from the following public data sources:
+
++ Mass Shootings Data: [Gun Violence Archive](http://www.shootingtracker.com/)
++ Gun Law Strength Data: [The Giffords Law Center](http://lawcenter.giffords.org/scorecard/)
++ Multiple Cause of Death Data: [CDC](https://wonder.cdc.gov/mcd.html).
+  *This data represented firearm caused death in each state each year, from 1999 to 2016.*
++ [Gun Ownership and Social Gun Culture Data](http://europepmc.org/articles/pmc4809774)
+
+Here is the data clean and aggregation part in jupyter file:
+
+#### [Jupyter Notebook Link](https://github.com/lpyuan/Individual-Project/blob/master/Data%20Viz.ipynb)
+
+Here are all the datasets exported to Tableau after data collection and wrangling:
+
+#### [Viz Data Sets](https://github.com/lpyuan/Viz-Data-Sets)
+
+
+## 3. Revised Data Product
 
 ### Finding 3 - Does World Cup Really Bring Tourism Gains To Host Countries?
 
