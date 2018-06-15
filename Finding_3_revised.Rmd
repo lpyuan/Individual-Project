@@ -12,8 +12,8 @@ This projects will comprise the following several parts:
    3.1 Finding One
    3.2 Finding Two
    3.3 Finding Three
-5. Summary and Outlook
-6. References
+5. Limitations and Outlook
+6. Additional References
 
 ```
 
