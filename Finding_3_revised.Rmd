@@ -117,7 +117,7 @@ From the aspect of tourism expenditure, when countries host global events, the a
 
 In the original chart,since our data starts from 1995 to 2016, so we use time series data as rows and label their hosting data with annotation. But from this chart, we can only see each country’s trending and is not convenient to put these countries to the same time points.
 
-For revised version, we changed the timeline row in the format of host year, ten years before and after and we also adding the announcing year as a time point to consider if announcing will influence their tourism expenditure. In this way, we can also deleted the labels in the original chart so that it will be much easy to compare these six countries.
+For revised version, we changed the timeline row in the format of host year, ten years before and after and we also adding the announcing year as a time point to consider if announcing will influence their tourism expenditure. In this way, we can also deleted the labels in the original chart so that it will be much easy to compare these six countries. Since the data starts from 1995, so some of the countries like Japan and France may not be able to present the announcing year point data.
 
 Now, from the revised version ,we can clearly see that Brazil is a little bit different, it has a boost at the host year but followed another rapid drop. vAccording to Wall Street Journal, Brazil tourists seen spending [$2.97 Billion](https://www.wsj.com/articles/brazil-tourists-seen-spending-2-97-billion-during-world-cup-1403010185) during World Cup and $50 Million in Rio de Janeiro during tournament's first weekend.  The total amount includes spending on hotels, transportation and at restaurants and bars, and Rio will attract more cash from tourists because it will host the most matches during the tournament, including the final. 
 
@@ -146,7 +146,7 @@ Here are the two ratios we build:
 
 International Tourists Ratio means that the bigger the ratio, the more potential pressure will be for host country's social resources. And the International Tourism Expenditure Ratio represents potential gains from tourism on individual leveal. For example, if one hots country earns 20 million dollars for 1 million people, it can be interpreted that each person will potential get 20 dollar.
 
-For the revised version one 
+Compared to our first version, this is an additional part while we do our presentation, so we had two revised version charts. For the revised version one, we plot two ratios together for six countries in bar chart format and each ratio with an unified color, but in revised version two, we highlight three countries including  specifically to find interesting insights from the chart. 
 
 ### 4. Limitations and Outlook:
 
