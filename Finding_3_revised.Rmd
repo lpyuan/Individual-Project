@@ -19,23 +19,11 @@ This projects will comprise the following several parts:
 
 ## 1. Project Introduction
 
-### Area of Interest
+Since the World Cup inauguration in Uruguay in 1930, over 20 countries have been hosts of this worldwide mega event. It is the everlasting hope of countries that host major sporting events that the games will bring about not only sporting glory but also an economic boom. Tourism is also a clear reason that world cup host country will get the benefit of tourists coming and spending money.
 
-In this summer, the FIFA World Cup is scheduled to take place in Russia from June 14 to July 15. The competition has been played every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War. It is the biggest single-event sporting competition in the world and is contested by the senior men's national teams from the 208 Member Associations of FIFA. 
+However, there are certain figures and metrics that suggest that the benefits might not outweigh the costs of hosting. If we want to assess the impacts a World Cup might have on a country, one way is to look at the historical experience of past hosts. 
 
-The current format of the tournament involves 32 teams competing for the title at venues within the host nation(s) over a period of one month – this phase is often called the Final Competition.A qualification phase, the Preliminary Competition which currently takes place over the preceding three years, is used to determine which teams qualify for the tournament together with the host nation(s).
-
-There are two hundred and eleven nations who can qualify for the World Cup, but only thirty-two teams actually make it. In order to qualify for the World Cup, the countries play matches against other countries in their region and depending on how many countries are in the region, only a handful can qualify. These matches take place across the time frame of 4 years, with athletes leaving their teams for a couple weeks to play with their national team.
-
-### Importance of FIFA World Cup
-
-The FIFA world cup is arguably the biggest sporting event in the world, with soccer/football fans being the majority on every continent except North America and Antarctica. It is the most prestigious and important trophy in the sport of football. 
-
-According to FIFA official website, the FIFA World Cup is the world's most widely viewed sporting event; an estimated 715.1 million people watched the final match of the 2006 FIFA World Cup held in Germany and the 2010 event in South Africa was broadcast to 204 countries on 245 different channels. Inside the stadiums, a total of 3,170,856 spectators attended the 64 matches an average of 49,670 per match and the third highest aggregate attendance behind USA 1994 and Germany 2006.
-
-There were also over six million people who attended public viewing events in 16 sites across the world: ten within South Africa and a further six across the globe in Rome, Paris, Berlin, Sydney, Mexico City and Rio de Janeiro. A total of 350,000 fans attended the International FIFA Fan Fest in Berlin for the semi-final match between Germany and Spain.
-
-More importantly, it acts as a massive promotion for the game of football and for the host nation(s) and are therefore wonderful opportunities to help promote values of respect, fair play and discipline to the watching world.
+So we used data of all host countries from three perspectives sports performance by comparison of World Cup Ranking to Elo Rating, economic impact by GDP growth rate and changes in current US dollars, international tourism impact by number of arrivals and expenditure. After our analysis, we found the following three unexpected findings.
 
 
 ## 2. Data Source and Wranging
@@ -59,7 +47,100 @@ Here are all the datasets exported to Tableau after data collection and wranglin
 
 ## 3. Revised Data Product
 
-### Finding 3.1
+### Finding 3.1 How Big Are Home-court Advantages for Hosting Country on World Cup Ranking?
+
+Since the beginning of the World Cup, host countries have produced a better performance compared to their Soccer Rating in the world every year apart from 1990. 
+
+Our analysis shows that home country advantage is equivalent to progressing an additional two rounds on average, and this pattern is evident in Figure. This home region effect may reflect a mix of stronger home crowd support and common climatic conditions. A European country has never won a World Cup held in the Americas, while only once has a South American country won the World Cup in Europe (Brazil in 1958).
+
+We used world [World Soccer Elo rating](https://www.eloratings.net), it’s based on the Elo rating system, developed by Dr. Arpad Elo. This system is used by FIDE, the international chess federation, to rate chess players. by adding a weighting for the kind of match, an adjustment for the home team advantage, and an adjustment for goal difference in the match result.
+
+The ratings take into account all international "A" matches for which results could be found. International football data is primarily obtained from rsssf.com, theroonba.com, and soccer-db.info.
+
+Ratings tend to converge on a team's true strength relative to its competitors after about 30 matches. Ratings for teams with fewer than 30 matches should be considered provisional.
+
+The ratings are based on the following formulas:
+
+#### Rn = Ro + K × (W - We)
+
+Rn is the new rating, Ro is the old (pre-match) rating.
+K is the weight constant for the tournament played:
+60 for World Cup finals;
+50 for continental championship finals and major intercontinental tournaments;
+40 for World Cup and continental qualifiers and major tournaments;
+30 for all other tournaments;
+20 for friendly matches.
+
+K is then adjusted for the goal difference in the game. It is increased by half if a game is won by two goals, by 3/4 if a game is won by three goals, and by 3/4 + (N-3)/8 if the game is won by four or more goals, where N is the goal difference.
+
+W is the result of the game (1 for a win, 0.5 for a draw, and 0 for a loss).
+
+We is the expected result (win expectancy), either from the chart or the following formula:
+
+#### We = 1 / (10(-dr/400) + 1)
+
+[dr](https://www.eloratings.net/about) equals the difference in ratings plus 100 points for a team playing at home.
+
+**Figure 1.1 World Cup Rank vs. World Elo Ratings** 
+
+Original Chart | Revised Version 
+-------------  | ------------- 
+![](https://github.com/lpyuan/Individual-Project/blob/master/rankDiff.png) | ![](https://github.com/bochenw/picture/blob/master/Screen%20Shot%202018-06-14%20at%201.57.45%20PM.png)|
+[Original Tableau Link](https://public.tableau.com/profile/bochen.wang#!/vizhome/WorldCuprankVsWorldrankforHostCountriesfrom1930to2014/Dashboard1) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/bochen.wang#!/vizhome/rankingdifferences1/Dashboard2)|
+
+We calculated the difference between world cup ranking and world ranking and plot our result into the following figure. The ranking differences between world ranking and world cup ranking for the host countries since 1930 has an average of 8.35. Besides of the number, we observed that the result is very unbalanced, some group of countries only changed in a small range, and other countries changed in a relatively broad range.
+
+Based on the above analysis, we divided hosting courtiers into two groups: the first group includes the countries that were rated the top 10 countries by world ranking, another group includes all the countries outside of that top 10 realms.
+
+**Figure 1.2 Top 10 Teams Difference & Ranking>10**
+
+Original Chart | Revised Version 
+-------------  | ------------- 
+![](https://github.com/lpyuan/Individual-Project/blob/master/Top10Diff.png) | ![](https://github.com/bochenw/picture/blob/master/Screen%20Shot%202018-06-14%20at%201.57.00%20PM.png)|
+[Original Tableau Link](https://public.tableau.com/profile/bochen.wang#!/vizhome/ranking10differences/Dashboard3) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/bochen.wang#!/vizhome/rankingdifferences/Dashboard3)|
+
+The result is unexpected, for the top ten world ranking countries, their ranking difference is minimal, having an average of 1.33, however, for the rest of the countries, their ranking differences has an average of 18.875 difference.
+
+At this point, we already had a partial conclusion that some countries have a significant high hosting advantage. To make our conclusion more convincible, instead of comparing their absolute ranking difference, we created a formula that could calculate the difficulty for those countries to achieve such higher rankings:
+
+#### Difficulty = (World Ranking – World Cup Ranking) / World Cup Ranking
+
+The objective of this formula is simple to understand: one country has a world ranking of 50, and it’s rank score increased to 40 in World Cup; another country has a world ranking of 11, and its rank score increased to 1 in World Cup. For those two countries, their score all increased 10, but the difficulty of the increase is different.  By using our formula, we can more precisely check which countries outperform the most. 
+
+**Figure 1.3 Ranking<10 vs.Ranking>10**
+
+Original Chart | Revised Version 
+-------------  | ------------- 
+![](https://github.com/lpyuan/Individual-Project/blob/master/ranking10.png) | ![](https://github.com/bochenw/picture/blob/master/Screen%20Shot%202018-06-14%20at%201.56.37%20PM.png)|
+[Original Tableau link](https://public.tableau.com/profile/bochen.wang#!/vizhome/ranking10difficulty/Dashboard4) | Revised Version: [Revised Tableau Link](https://public.tableau.com/profile/bochen.wang#!/vizhome/rankingdifficuly/Dashboard4)|
+
+Korea had outperformed the most during 2002 world cup.
+
+For the group stage, Korea(27)* was in group D, with United States(21), Portugal(8), and Poland(34). Korea(27) beat Portugal(8) during the group stage period. During Knockout stage, Korea first beat Italy(7), then beat Spain(2).
+
+The result looks impossible, the difficulty for a team to reach such achieve is extremely hard. Based on this result, in our future revised version, we will dig deeper, try to obtain the data for Korea soccer statistics before and after 2002, and try to reach a reasonable conclusion. 
+
+*Number inside of the parenthesis represent that country’s Elo Ranking 
+
+
+## Revised Version Addition Data Wrangling and Visulizations for Finding 1
+
+[Revised Version Addition Data Wrangling Jupyter Link](https://github.com/bochenw/Individua-project/blob/master/korea%20matches.ipynb)
+
+## New Findings and Graphs
+
+**Figure 1.4 Korean World Cup Match Win Rate**
+![](https://github.com/bochenw/picture/blob/master/Screen%20Shot%202018-06-14%20at%201.59.39%20PM.png)
+[Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/winraterank/Dashboard2)
+
+We used the pie chart to plot out the result for Korean world cup win rate. As we can see from the graph, in history Korea only have a 10%-win rate with the top 10 world ranking opponents, and 19% win rate with rest the opponents. Both win rate is meager, so we can conclude that Korea will typically not considered as a strong soccer nation. 
+
+
+**Figure 1.5 Korean Elo Score Vs. World Cup Score**
+![](https://github.com/bochenw/picture/blob/master/Screen%20Shot%202018-06-14%20at%201.57.12%20PM.png)
+[Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/KoreaEloScoreVsworldcupscore/Dashboard1)
+
+We tracked additional data from FIFA world cup website and Elo world soccer rating system. Based on the previous analysis, we found out during 2002 world cup, Korea had outperformed the most. At this time, we focused on Korea and plotted out the Elo Score Vs. World Cup score for Korea from 1990 to 2014. As we can see from the graph, the Elo score and World Cup score have the same trending. The average differences between Elo Score and World Cup score are 14.5; However, during 2002 world cup, the difference is 23. After 2002, we can observe their soccer ranking is keep decreasing. We can conclude from the graph that Korean had a significant home advantage during the world cup 2002. After 2002 the world cup, Korean’s ranking is keeping decreasing, and even worse than before 2002's ranking. So the result from 2002 world cup not helpful for Korea to increase their national soccer performance. 
 
 ### Finding 3.2 
 
