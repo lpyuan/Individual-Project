@@ -35,7 +35,6 @@ The data used in this projects are generated mainly from the following public da
 + [World Soccer Elo rating](https://www.eloratings.net/)
 
 + [GDP World Bank Data](https://www.kaggle.com/ibrahimmukherjee/gdp-world-bank-data/data)
-(Calculate the GDP from primary indicators of the country)
 
 + [International Tourism World Bank Data](https://www.kaggle.com/ibrahimmukherjee/gdp-world-bank-data/data)
 
