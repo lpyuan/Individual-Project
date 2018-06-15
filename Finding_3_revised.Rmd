@@ -136,7 +136,7 @@ Revised Chart-1 | Revised Chart-2
 
 In order to compare six countries using same criteria, we build two functions one is International Tourists over Population Ratio and another one is International Tourism Expenditure over Population Ratio.
 
-Although the economic importance of tourism to a region is predominantly based on the proportion of value that tourism contributes to the total economy, the ratio of visitors compared to the permanent population of a region creates supplementary evidence of the level and impact of tourist density in individual tourism regions. 
+Although the economic importance of tourism to a region is predominantly based on the proportion of value that tourism contributes to the total economy, [the ratio of visitors](https://www.tra.gov.au/tra/2016/Tourism_Region_Profiles/Region_profiles/index.html) compared to the permanent population of a region creates supplementary evidence of the level and impact of tourist density in individual tourism regions. 
 
 Here are the two ratios we build:
 
@@ -144,9 +144,13 @@ Here are the two ratios we build:
 -------------  | ------------- 
 ![](https://github.com/lpyuan/AddPics/blob/master/Tourist_Ratio.png) | ![](https://github.com/lpyuan/AddPics/blob/master/Expenditure_Ratio.png) |
 
-International Tourists Ratio means that the bigger the ratio, the more potential pressure will be for host country's social resources. And the International Tourism Expenditure Ratio represents potential gains from tourism on individual leveal. For example, if one hots country earns 20 million dollars for 1 million people, it can be interpreted that each person will potential get 20 dollar.
+International Tourists Ratio means that the bigger the ratio, the more potential pressure will be for host country's social resources. And the International Tourism Expenditure Ratio represents potential gains from tourism on individual leveal. For example, if one hots country earns 20 million dollars for 1 million people, it can be interpreted that each person will potential get 20 dollars.
 
-Compared to our first version, this is an additional part while we do our presentation, so we had two revised version charts. For the revised version one, we plot two ratios together for six countries in bar chart format and each ratio with an unified color, but in revised version two, we highlight three countries including  specifically to find interesting insights from the chart. 
+Compared to our first version, this is an additional part while we do our presentation, so we had two revised version charts. For the revised version one, we plot two ratios together for six countries in bar chart format and each ratio with an unified color, but in revised version two, we highlight three countries using different colors including Brazil, South Africa and France specifically to better present interesting insights from the chart. 
+
+From the revised version two, we can see that for France, its tourists ratio are the highest of all the countries but with the lowest tourism expenditure ratio. It might tell that hosting World Cup brings too much tourists in short time period which could be overwhelmed for this country and also didn't get much gains from it. Brazil and South Africa
+
+
 
 ### 4. Limitations and Outlook:
 
