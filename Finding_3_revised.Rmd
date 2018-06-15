@@ -148,8 +148,7 @@ International Tourists Ratio means that the bigger the ratio, the more potential
 
 Compared to our first version, this is an additional part while we do our presentation, so we had two revised version charts. For the revised version one, we plot two ratios together for six countries in bar chart format and each ratio with an unified color, but in revised version two, we highlight three countries using different colors including Brazil, South Africa and France specifically to better present interesting insights from the chart. 
 
-From the revised version two, we can see that for France, its tourists ratio are the highest of all the countries but with the lowest tourism expenditure ratio. It might tell that hosting World Cup brings too much tourists in short time period which could be overwhelmed for this country and also didn't get much gains from it. Brazil and South Africa
-
+From the revised version two, we can see that for France, its tourists ratio are the highest of all the countries but with the lowest tourism expenditure ratio. It might tell that hosting World Cup brings too much tourists in short time period which could be overwhelmed for this country and also didn't get much gains from it. For Brazil and South Africa, the chart shows that this mega events also didin't generate much gains for potentially individual person. 
 
 
 ### 4. Limitations and Outlook:
