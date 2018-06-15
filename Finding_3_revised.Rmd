@@ -138,16 +138,21 @@ In order to compare six countries using same criteria, we build two functions on
 
 Although the economic importance of tourism to a region is predominantly based on the proportion of value that tourism contributes to the total economy, the ratio of visitors compared to the permanent population of a region creates supplementary evidence of the level and impact of tourist density in individual tourism regions. 
 
-Here are the two ratios we build. International Tourists Ratio means that the bigger the ratio, the more potential pressure will be for host country's social resources. And the International Tourism Expenditure Ratio represents potential gains from tourism on individual leveal. For example, if one hots country earns 20 million dollars for 1 million people, it can be interpreted that each person will potential get 20 dollar.
+Here are the two ratios we build:
 
 **International Tourists Ratio**
 
 ![](https://github.com/lpyuan/AddPics/blob/master/Tourist_Ratio.png)
 
+International Tourists Ratio means that the bigger the ratio, the more potential pressure will be for host country's social resources. 
+
 **International Expenditure Ratio**
 
 ![](https://github.com/lpyuan/AddPics/blob/master/Expenditure_Ratio.png)
 
+And the International Tourism Expenditure Ratio represents potential gains from tourism on individual leveal. For example, if one hots country earns 20 million dollars for 1 million people, it can be interpreted that each person will potential get 20 dollar.
+
+For the revised version one 
 
 ### 4. Limitations and Outlook:
 
